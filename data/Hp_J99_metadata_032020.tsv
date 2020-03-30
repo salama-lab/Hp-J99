@@ -1,0 +1,44 @@
+strain	ref_accession	date	body_location	country	location	sub_group	Normalized_IL-8	Cell_Shape	Percent_IL-8	sidecurvature:axislength	wavenumber:axislength	CagY	RFLP	csd_mutations
+A1	AE001439	2000-07-01	Antrum	United States	Tennessee	2A	1.56	short_pitch	>20%_increase	0.765	0.237	C	B	
+A2	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.45	rod	>20%_increase	0.478	0.126	C	B	Csd4_I279fs
+A3	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.50	long_pitch	>20%_increase	1.067	0.130	C	B
+A4	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.38	rod	>20%_increase	0.630	0.143	C	B	Csd5_V168M
+A5	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.33	rod	>20%_increase	0.583	0.150	C	B	Csd4_S261fs
+A6	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.27	rod	>20%_increase	0.505	0.125	C	B	Csd4_G87fs
+A7	AE001439	2000-07-01	Antrum	United States	Tennessee	2A	1.45	short_pitch	>20%_increase	1.269	0.328	C	B
+A8	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.47	rod	>20%_increase	0.254	0.114	C	B	Csd4_Y242X
+A9	AE001439	2000-07-01	Antrum	United States	Tennessee	2A	1.02	short_pitch	0-20%_increase	1.245	0.258	C	B
+A10	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.10	rod	0-20%_increase	0.289	0.114	C	B	Csd4_I279fs
+A11	AE001439	2000-07-01	Antrum	United States	Tennessee	2A	1.32	short_pitch	>20%_increase	1.243	0.308	C	B
+A12	AE001439	2000-07-01	Antrum	United States	Tennessee	2B	1.37	rod	>20%_increase	0.473	0.142	C	B	Csd6_Y120fs
+C1	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.15	short_pitch	0-20%_increase	1.009	0.302	C	B
+C2	AE001439	2000-07-01	Corpus	United States	Tennessee	2B	1.25	short_pitch	>20%_increase	1.079	0.274	C	B
+C3	AE001439	2000-07-01	Corpus	United States	Tennessee	2B	1.32	rod	>20%_increase	0.553	0.149	C	B	Csd6_I177fs
+C4	AE001439	2000-07-01	Corpus	United States	Tennessee	2B	1.46	rod	>20%_increase	0.582	0.155	C	B	Csd6_A114fs
+C5	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.09	short_pitch	0-20%_increase	0.754	0.247	C	B
+C6	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.21	short_pitch	>20%_increase	1.00	0.263	C	B
+C7	AE001439	2000-07-01	Corpus	United States	Tennessee	2B	1.09	long_pitch	0-20%_increase	1.569	0.158	C	B
+C8	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.16	short_pitch	0-20%_increase	0.920	0.280	C	B
+C9	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.04	short_pitch	0-20%_increase	1.04	0.279	C	B
+C10	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	0.94	short_pitch	1-20%_decrease	0.952	0.291	C	B
+C11	AE001439	2000-07-01	Corpus	United States	Tennessee	2A	1.00	short_pitch	0-20%_increase	1.067	0.246	C	B
+C12	AE001439	2000-07-01	Corpus	United States	Tennessee	2B	1.48	rod	>20%_increase	0.439	0.115	C	B	Csd4_I279fs
+J99	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.00	long_pitch	0-20%_increase	1.023	0.172	A	A
+SC1	AE001439	1994-07-01	Antrum	United States	Tennessee				
+SC2	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	0.93	long_pitch	1-20%_decrease	1.057	0.186	A	A
+SC3	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.20	long_pitch	0-20%_increase	0.749	0.152	A	A
+SC4	AE001439	1994-07-01	Antrum	United States	Tennessee	1B	0.88	long_pitch	1-20%_decrease	1.016	0.216	B	B
+SC5	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.17	long_pitch	0-20%_increase	0.774	0.159	A	A
+SC6	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.00	long_pitch	1-20%_decrease	0.933	0.172	A	A
+SC7	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.19	long_pitch	0-20%_increase	1.16	0.199	A	A
+SC8	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.13	long_pitch	0-20%_increase	0.894	0.170	A	A
+SC9	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.08	long_pitch	0-20%_increase	1.13	0.199	A	A
+SC10	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	0.96	long_pitch	1-20%_decrease	1.13	0.201	A	A
+SC11	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.00	long_pitch	1-20%_decrease	1.121	0.182	A	A
+SC12	AE001439	1994-07-01	Antrum	United States	Tennessee	1A	1.05	long_pitch	0-20%_increase	0.986	0.169	A	A
+Ca-1	AE001439	2000-07-01	Cardia	United States	Tennessee		
+D1	AE001439	2000-07-01	Duodenum	United States	Tennessee	2A	1.50	short_pitch	>20%_increase	1.149	0.323	C	B
+D2	AE001439	2000-07-01	Duodenum	United States	Tennessee	2B	1.31	short_pitch	>20%_increase	0.831	0.237	C	B
+D3	AE001439	2000-07-01	Duodenum	United States	Tennessee					
+D4	AE001439	2000-07-01	Duodenum	United States	Tennessee	2B	1.21	short_pitch	>20%_increase	0.951	0.254	C	B
+D5	AE001439	2000-07-01	Duodenum	United States	Tennessee			
