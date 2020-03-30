@@ -1,0 +1,88 @@
+{
+ "title": "H.pylori strains from a chronically infected individual",
+ "color_options": {
+  "gt": {
+   "menuItem": "genotype",
+   "legendTitle": "genotype",
+   "type": "discrete",
+   "key": "genotype"
+ },
+  "clade_membership": {
+   "menuItem": "sub-group",
+   "legendTitle": "sub-group",
+   "type": "discrete",
+   "key": "sub-group"
+ },
+  "num_date": {
+   "menuItem": "sampling date",
+   "legendTitle": "sampling date",
+   "type": "continuous",
+   "key": "sampling date"
+ },
+  "body_location": {
+   "menuItem": "gastric biopsy location",
+   "legendTitle": "gastric biopsy location",
+   "type": "discrete",
+   "key": "gastric biopsy location"
+ },
+   "Normalized_IL-8": {
+   "menuItem": "IL-8 raw values",
+   "legendTitle": "IL-8 raw values",
+   "type": "continuous",
+   "key": "IL-8 raw values"
+ },
+  "sidecurvature:axislength": {
+  "menuItem": "side curvature:axis length",
+  "lengthTitle": "side curvature:axis length",
+  "type": "continuous",
+  "key": "side curvature:axis length"
+ },
+  "wavenumber:axislength": {
+  "menuItem": "wavenumber:axis length",
+  "lengthTitle": "wavenumber:axis length",
+  "type": "continuous",
+  "key": "wavenumber:axis length"
+ },
+  "Percent_IL-8": {
+   "menuItem": "percentage increase or decrease in IL-8 induction",
+   "legendTitle": "percentage increase or decrease in IL-8 induction",
+   "type": "discrete",
+   "key": "percentage Increase or decrease in IL-8 secretion" 
+ },
+  "Cell_Shape":{
+   "menuItem": "cell shape categories",
+   "legendTitle": "cell shape categories",
+   "type": "discrete",
+   "key": "cell shape categories"
+ },
+   "CagY": {
+   "menuItem": "cagY variant",
+   "legendTitle": "cagY variant",
+   "type": "discrete",
+   "key": "cagY variant"
+ },
+   "RFLP": {
+   "menuItem": "cagY RFLP",
+   "legendTitle": "cagY RFLP",
+   "type": "discrete",
+   "key": "cagY RFLP"
+ },
+   "csd_mutations": {
+   "menuItem": "csd mutations",
+   "legendTitle": "csd mutations",
+   "type": "discrete",
+   "key": "csd mutations"
+   } 
+ },
+ "geo": [
+   "region"
+ ],
+ "filters": [
+  "region",
+  "clade_membership"
+ ],
+  "maintainer": [
+    "Laura Jackson",
+    "research.fhcrc.org/salama/en/lab-members.html"
+  ]
+}
