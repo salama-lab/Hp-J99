@@ -1,0 +1,7695 @@
+{
+  "annotations": {
+    "BCGIB": {
+      "end": 1496453,
+      "start": 1495232,
+      "strand": -1
+    },
+    "BSP6IM": {
+      "end": 1168269,
+      "start": 1167303,
+      "strand": -1
+    },
+    "HI1087": {
+      "end": 1488576,
+      "start": 1487790,
+      "strand": -1
+    },
+    "HINDIIM": {
+      "end": 928321,
+      "start": 927175,
+      "strand": 1
+    },
+    "HINFIM": {
+      "end": 1390060,
+      "start": 1388980,
+      "strand": -1
+    },
+    "M.HpyI": {
+      "end": 1264516,
+      "start": 1263526,
+      "strand": -1
+    },
+    "MBOIIR": {
+      "end": 1589350,
+      "start": 1588368,
+      "strand": 1
+    },
+    "MFOKI": {
+      "end": 468318,
+      "start": 467388,
+      "strand": 1
+    },
+    "PBP-1A": {
+      "end": 593501,
+      "start": 591518,
+      "strand": -1
+    },
+    "VSPIM": {
+      "end": 464714,
+      "start": 463076,
+      "strand": 1
+    },
+    "YJR117W": {
+      "end": 1109688,
+      "start": 1108464,
+      "strand": 1
+    },
+    "YggC": {
+      "end": 485008,
+      "start": 484606,
+      "strand": -1
+    },
+    "accA": {
+      "end": 555832,
+      "start": 554893,
+      "strand": -1
+    },
+    "accC": {
+      "end": 1124063,
+      "start": 1122695,
+      "strand": 1
+    },
+    "accD": {
+      "end": 980092,
+      "start": 979222,
+      "strand": -1
+    },
+    "ackA": {
+      "end": 920251,
+      "start": 919039,
+      "strand": -1
+    },
+    "acnB": {
+      "end": 797022,
+      "start": 794463,
+      "strand": 1
+    },
+    "acpP": {
+      "end": 557431,
+      "start": 557194,
+      "strand": -1
+    },
+    "acpS": {
+      "end": 826281,
+      "start": 825921,
+      "strand": -1
+    },
+    "acrB": {
+      "end": 607219,
+      "start": 604132,
+      "strand": 1
+    },
+    "addA": {
+      "end": 1595207,
+      "start": 1592366,
+      "strand": 1
+    },
+    "adk": {
+      "end": 624198,
+      "start": 623622,
+      "strand": 1
+    },
+    "aimE": {
+      "end": 309229,
+      "start": 308209,
+      "strand": 1
+    },
+    "alaS": {
+      "end": 1295599,
+      "start": 1293055,
+      "strand": -1
+    },
+    "ald": {
+      "end": 1576450,
+      "start": 1575307,
+      "strand": 1
+    },
+    "algC": {
+      "end": 1330677,
+      "start": 1329297,
+      "strand": 1
+    },
+    "alr": {
+      "end": 971214,
+      "start": 970080,
+      "strand": -1
+    },
+    "amiA": {
+      "end": 787911,
+      "start": 786501,
+      "strand": -1
+    },
+    "amiF": {
+      "end": 1291412,
+      "start": 1290407,
+      "strand": 1
+    },
+    "ansB": {
+      "end": 741289,
+      "start": 740290,
+      "strand": 1
+    },
+    "aphA": {
+      "end": 1339904,
+      "start": 1339166,
+      "strand": -1
+    },
+    "apt": {
+      "end": 568584,
+      "start": 568044,
+      "strand": -1
+    },
+    "argS": {
+      "end": 332564,
+      "start": 330938,
+      "strand": -1
+    },
+    "aroA": {
+      "end": 1089802,
+      "start": 1088512,
+      "strand": 1
+    },
+    "aroB": {
+      "end": 289684,
+      "start": 288652,
+      "strand": 1
+    },
+    "aroC": {
+      "end": 674217,
+      "start": 673119,
+      "strand": 1
+    },
+    "aroE": {
+      "end": 1304446,
+      "start": 1303645,
+      "strand": -1
+    },
+    "aroK": {
+      "end": 160111,
+      "start": 159622,
+      "strand": 1
+    },
+    "aroQ": {
+      "end": 416002,
+      "start": 415489,
+      "strand": 1
+    },
+    "arsS": {
+      "end": 167014,
+      "start": 165685,
+      "strand": -1
+    },
+    "asd": {
+      "end": 1240341,
+      "start": 1239300,
+      "strand": -1
+    },
+    "aspA": {
+      "end": 658530,
+      "start": 657123,
+      "strand": 1
+    },
+    "aspB_1": {
+      "end": 632381,
+      "start": 631253,
+      "strand": -1
+    },
+    "aspB_2": {
+      "end": 684768,
+      "start": 683595,
+      "strand": 1
+    },
+    "aspS": {
+      "end": 623611,
+      "start": 621871,
+      "strand": 1
+    },
+    "atoE": {
+      "end": 710559,
+      "start": 709194,
+      "strand": -1
+    },
+    "atoS": {
+      "end": 250963,
+      "start": 249817,
+      "strand": -1
+    },
+    "atpA": {
+      "end": 1178418,
+      "start": 1176906,
+      "strand": -1
+    },
+    "atpB": {
+      "end": 845263,
+      "start": 844582,
+      "strand": -1
+    },
+    "atpC": {
+      "end": 1174542,
+      "start": 1174170,
+      "strand": -1
+    },
+    "atpD": {
+      "end": 1175962,
+      "start": 1174552,
+      "strand": -1
+    },
+    "atpE": {
+      "end": 1266682,
+      "start": 1266364,
+      "strand": -1
+    },
+    "atpF": {
+      "end": 1179499,
+      "start": 1178983,
+      "strand": -1
+    },
+    "atpF'": {
+      "end": 1179937,
+      "start": 1179502,
+      "strand": -1
+    },
+    "atpG": {
+      "end": 1176892,
+      "start": 1175986,
+      "strand": -1
+    },
+    "atpH": {
+      "end": 1178983,
+      "start": 1178440,
+      "strand": -1
+    },
+    "azlC": {
+      "end": 1370297,
+      "start": 1369610,
+      "strand": -1
+    },
+    "azlD": {
+      "end": 1369617,
+      "start": 1369260,
+      "strand": -1
+    },
+    "babA": {
+      "end": 915024,
+      "start": 912789,
+      "strand": -1
+    },
+    "babB": {
+      "end": 1299026,
+      "start": 1296914,
+      "strand": -1
+    },
+    "bamA": {
+      "end": 665901,
+      "start": 663180,
+      "strand": 1
+    },
+    "bcp": {
+      "end": 140229,
+      "start": 139770,
+      "strand": -1
+    },
+    "bioA": {
+      "end": 1007389,
+      "start": 1006069,
+      "strand": -1
+    },
+    "bioB": {
+      "end": 1425889,
+      "start": 1425040,
+      "strand": 1
+    },
+    "bioC": {
+      "end": 1309742,
+      "start": 1309004,
+      "strand": -1
+    },
+    "bioD": {
+      "end": 30298,
+      "start": 29641,
+      "strand": -1
+    },
+    "bioF": {
+      "end": 594622,
+      "start": 593500,
+      "strand": -1
+    },
+    "birA": {
+      "end": 1182352,
+      "start": 1181713,
+      "strand": -1
+    },
+    "bisC": {
+      "end": 1082756,
+      "start": 1080365,
+      "strand": -1
+    },
+    "cad": {
+      "end": 1143385,
+      "start": 1142332,
+      "strand": 1
+    },
+    "cadA": {
+      "end": 811411,
+      "start": 809350,
+      "strand": -1
+    },
+    "cagA": {
+      "end": 547108,
+      "start": 543604,
+      "strand": 1
+    },
+    "cagC": {
+      "end": 542832,
+      "start": 542484,
+      "strand": -1
+    },
+    "cagD": {
+      "end": 542483,
+      "start": 541856,
+      "strand": -1
+    },
+    "cagE": {
+      "end": 541848,
+      "start": 538896,
+      "strand": -1
+    },
+    "cagF": {
+      "end": 538895,
+      "start": 538088,
+      "strand": -1
+    },
+    "cagG": {
+      "end": 538034,
+      "start": 537605,
+      "strand": -1
+    },
+    "cagH": {
+      "end": 537589,
+      "start": 536476,
+      "strand": -1
+    },
+    "cagI": {
+      "end": 536466,
+      "start": 535320,
+      "strand": -1
+    },
+    "cagL": {
+      "end": 535324,
+      "start": 534610,
+      "strand": -1
+    },
+    "cagM": {
+      "end": 533594,
+      "start": 532463,
+      "strand": 1
+    },
+    "cagN": {
+      "end": 534529,
+      "start": 533608,
+      "strand": 1
+    },
+    "cagP": {
+      "end": 531849,
+      "start": 531504,
+      "strand": -1
+    },
+    "cagQ": {
+      "end": 531078,
+      "start": 530697,
+      "strand": -1
+    },
+    "cagS": {
+      "end": 530259,
+      "start": 529659,
+      "strand": -1
+    },
+    "cagT": {
+      "end": 529455,
+      "start": 528612,
+      "strand": 1
+    },
+    "cagY": {
+      "end": 523533,
+      "start": 518073,
+      "strand": -1
+    },
+    "carA": {
+      "end": 1290239,
+      "start": 1289111,
+      "strand": 1
+    },
+    "carB": {
+      "end": 943674,
+      "start": 940416,
+      "strand": -1
+    },
+    "cbpA": {
+      "end": 426920,
+      "start": 426053,
+      "strand": -1
+    },
+    "ccdA": {
+      "end": 272833,
+      "start": 272113,
+      "strand": 1
+    },
+    "ccma": {
+      "end": 1606098,
+      "start": 1605687,
+      "strand": 1
+    },
+    "ccoQ": {
+      "end": 151679,
+      "start": 151460,
+      "strand": 1
+    },
+    "cdh": {
+      "end": 884877,
+      "start": 884142,
+      "strand": -1
+    },
+    "cdsA": {
+      "end": 221417,
+      "start": 220616,
+      "strand": 1
+    },
+    "ceuE_1": {
+      "end": 1619904,
+      "start": 1618896,
+      "strand": -1
+    },
+    "ceuE_2": {
+      "end": 1621113,
+      "start": 1620111,
+      "strand": -1
+    },
+    "cfa": {
+      "end": 1074127,
+      "start": 1072957,
+      "strand": 1
+    },
+    "cgtA": {
+      "end": 223733,
+      "start": 222574,
+      "strand": 1
+    },
+    "cheA": {
+      "end": 1101282,
+      "start": 1098834,
+      "strand": 1
+    },
+    "cheV": {
+      "end": 19489,
+      "start": 18523,
+      "strand": 1
+    },
+    "cheV_2": {
+      "end": 621837,
+      "start": 620895,
+      "strand": 1
+    },
+    "cheV_3": {
+      "end": 1098778,
+      "start": 1097839,
+      "strand": 1
+    },
+    "cheW": {
+      "end": 1101776,
+      "start": 1101278,
+      "strand": 1
+    },
+    "cheY": {
+      "end": 390098,
+      "start": 389723,
+      "strand": -1
+    },
+    "clpA": {
+      "end": 35026,
+      "start": 32797,
+      "strand": 1
+    },
+    "clpB": {
+      "end": 272057,
+      "start": 269486,
+      "strand": 1
+    },
+    "clpP": {
+      "end": 814078,
+      "start": 813490,
+      "strand": -1
+    },
+    "clpX": {
+      "end": 1412556,
+      "start": 1411197,
+      "strand": -1
+    },
+    "coaE": {
+      "end": 848850,
+      "start": 848259,
+      "strand": -1
+    },
+    "comB10": {
+      "end": 40719,
+      "start": 39588,
+      "strand": 1
+    },
+    "comB2": {
+      "end": 14140,
+      "start": 13858,
+      "strand": 1
+    },
+    "comB3": {
+      "end": 14403,
+      "start": 14139,
+      "strand": 1
+    },
+    "comB6": {
+      "end": 37741,
+      "start": 36685,
+      "strand": 1
+    },
+    "comB8": {
+      "end": 38610,
+      "start": 37866,
+      "strand": 1
+    },
+    "comB9": {
+      "end": 39596,
+      "start": 38609,
+      "strand": 1
+    },
+    "comE3": {
+      "end": 1399558,
+      "start": 1398328,
+      "strand": -1
+    },
+    "comH": {
+      "end": 1557568,
+      "start": 1556128,
+      "strand": -1
+    },
+    "comL": {
+      "end": 1415488,
+      "start": 1414825,
+      "strand": 1
+    },
+    "comM": {
+      "end": 812956,
+      "start": 811435,
+      "strand": -1
+    },
+    "copA": {
+      "end": 385864,
+      "start": 383626,
+      "strand": -1
+    },
+    "copP": {
+      "end": 383626,
+      "start": 383425,
+      "strand": -1
+    },
+    "corA": {
+      "end": 1381632,
+      "start": 1380675,
+      "strand": -1
+    },
+    "cpdB": {
+      "end": 108840,
+      "start": 107094,
+      "strand": -1
+    },
+    "crcB": {
+      "end": 1279778,
+      "start": 1279385,
+      "strand": 1
+    },
+    "csd3": {
+      "end": 495720,
+      "start": 494499,
+      "strand": 1
+    },
+    "csd4": {
+      "end": 382387,
+      "start": 381070,
+      "strand": 1
+    },
+    "csd5": {
+      "end": 1305113,
+      "start": 1304453,
+      "strand": -1
+    },
+    "csd6": {
+      "end": 509216,
+      "start": 508223,
+      "strand": 1
+    },
+    "csrA": {
+      "end": 1466682,
+      "start": 1466451,
+      "strand": 1
+    },
+    "cstA": {
+      "end": 1217309,
+      "start": 1215245,
+      "strand": -1
+    },
+    "ctc": {
+      "end": 1521769,
+      "start": 1521232,
+      "strand": 1
+    },
+    "cute": {
+      "end": 183790,
+      "start": 182512,
+      "strand": -1
+    },
+    "cysE": {
+      "end": 1265768,
+      "start": 1265252,
+      "strand": -1
+    },
+    "cysK": {
+      "end": 111561,
+      "start": 110643,
+      "strand": -1
+    },
+    "cysS": {
+      "end": 899724,
+      "start": 898326,
+      "strand": 1
+    },
+    "czcA_1": {
+      "end": 998518,
+      "start": 995458,
+      "strand": -1
+    },
+    "czcA_2": {
+      "end": 1369280,
+      "start": 1366172,
+      "strand": 1
+    },
+    "czcB_2": {
+      "end": 1366172,
+      "start": 1365146,
+      "strand": 1
+    },
+    "dadA": {
+      "end": 973846,
+      "start": 972613,
+      "strand": -1
+    },
+    "dagA": {
+      "end": 972573,
+      "start": 971220,
+      "strand": -1
+    },
+    "dapA": {
+      "end": 437777,
+      "start": 436874,
+      "strand": -1
+    },
+    "dapB": {
+      "end": 499892,
+      "start": 499127,
+      "strand": 1
+    },
+    "dapD": {
+      "end": 634821,
+      "start": 633615,
+      "strand": 1
+    },
+    "dapE": {
+      "end": 216987,
+      "start": 215820,
+      "strand": -1
+    },
+    "dapF": {
+      "end": 562031,
+      "start": 561209,
+      "strand": -1
+    },
+    "dat1": {
+      "end": 687381,
+      "start": 686874,
+      "strand": -1
+    },
+    "dcd": {
+      "end": 1122075,
+      "start": 1121508,
+      "strand": -1
+    },
+    "dcuA": {
+      "end": 740161,
+      "start": 738829,
+      "strand": -1
+    },
+    "ddlA": {
+      "end": 756313,
+      "start": 755269,
+      "strand": 1
+    },
+    "deaD": {
+      "end": 253963,
+      "start": 252487,
+      "strand": 1
+    },
+    "def": {
+      "end": 813486,
+      "start": 812961,
+      "strand": -1
+    },
+    "deoB": {
+      "end": 1228857,
+      "start": 1227615,
+      "strand": -1
+    },
+    "deoD": {
+      "end": 1227619,
+      "start": 1226917,
+      "strand": -1
+    },
+    "dfp": {
+      "end": 858474,
+      "start": 857196,
+      "strand": 1
+    },
+    "dgkA": {
+      "end": 714755,
+      "start": 714368,
+      "strand": 1
+    },
+    "dhs1": {
+      "end": 139123,
+      "start": 137773,
+      "strand": 1
+    },
+    "dld": {
+      "end": 1278245,
+      "start": 1275404,
+      "strand": -1
+    },
+    "dmpI": {
+      "end": 954319,
+      "start": 954112,
+      "strand": -1
+    },
+    "dnaA": {
+      "end": 1559162,
+      "start": 1557788,
+      "strand": -1
+    },
+    "dnaB": {
+      "end": 1401099,
+      "start": 1399638,
+      "strand": -1
+    },
+    "dnaE": {
+      "end": 1484209,
+      "start": 1480573,
+      "strand": -1
+    },
+    "dnaG": {
+      "end": 11746,
+      "start": 10066,
+      "strand": 1
+    },
+    "dnaJ_2": {
+      "end": 1371417,
+      "start": 1370307,
+      "strand": -1
+    },
+    "dnaK": {
+      "end": 114374,
+      "start": 112511,
+      "strand": -1
+    },
+    "dnaN": {
+      "end": 490171,
+      "start": 489046,
+      "strand": 1
+    },
+    "dnaQ": {
+      "end": 1586633,
+      "start": 1585661,
+      "strand": -1
+    },
+    "dnaX": {
+      "end": 734655,
+      "start": 732906,
+      "strand": -1
+    },
+    "dniR": {
+      "end": 1629862,
+      "start": 1628737,
+      "strand": -1
+    },
+    "dpnA": {
+      "end": 50183,
+      "start": 49490,
+      "strand": -1
+    },
+    "dppA": {
+      "end": 314636,
+      "start": 312995,
+      "strand": 1
+    },
+    "dppB": {
+      "end": 315651,
+      "start": 314646,
+      "strand": 1
+    },
+    "dppC": {
+      "end": 316504,
+      "start": 315650,
+      "strand": 1
+    },
+    "dppD": {
+      "end": 317379,
+      "start": 316515,
+      "strand": 1
+    },
+    "dppF": {
+      "end": 318182,
+      "start": 317375,
+      "strand": 1
+    },
+    "dprA": {
+      "end": 344151,
+      "start": 343350,
+      "strand": 1
+    },
+    "dsbC": {
+      "end": 1116752,
+      "start": 1116080,
+      "strand": -1
+    },
+    "dut": {
+      "end": 879291,
+      "start": 878853,
+      "strand": -1
+    },
+    "dxr": {
+      "end": 222524,
+      "start": 221417,
+      "strand": 1
+    },
+    "dxs": {
+      "end": 357195,
+      "start": 355338,
+      "strand": 1
+    },
+    "eda": {
+      "end": 1137284,
+      "start": 1136657,
+      "strand": -1
+    },
+    "edd": {
+      "end": 1139129,
+      "start": 1137302,
+      "strand": -1
+    },
+    "efp": {
+      "end": 177672,
+      "start": 177108,
+      "strand": 1
+    },
+    "engA": {
+      "end": 852088,
+      "start": 850699,
+      "strand": 1
+    },
+    "engB": {
+      "end": 1626181,
+      "start": 1625554,
+      "strand": -1
+    },
+    "eno": {
+      "end": 158737,
+      "start": 157456,
+      "strand": 1
+    },
+    "envA": {
+      "end": 401947,
+      "start": 401059,
+      "strand": 1
+    },
+    "era": {
+      "end": 508227,
+      "start": 507321,
+      "strand": 1
+    },
+    "exbB_1": {
+      "end": 1174160,
+      "start": 1173590,
+      "strand": -1
+    },
+    "exbB_2": {
+      "end": 1376354,
+      "start": 1375916,
+      "strand": 1
+    },
+    "exbB_3": {
+      "end": 1468394,
+      "start": 1467941,
+      "strand": 1
+    },
+    "exbD_1": {
+      "end": 1173539,
+      "start": 1173137,
+      "strand": -1
+    },
+    "exbD_2": {
+      "end": 1376740,
+      "start": 1376350,
+      "strand": 1
+    },
+    "exbD_3": {
+      "end": 1468806,
+      "start": 1468404,
+      "strand": 1
+    },
+    "exsB": {
+      "end": 647612,
+      "start": 646934,
+      "strand": -1
+    },
+    "fabD": {
+      "end": 93031,
+      "start": 92101,
+      "strand": -1
+    },
+    "fabE": {
+      "end": 1122690,
+      "start": 1122204,
+      "strand": 1
+    },
+    "fabF": {
+      "end": 557092,
+      "start": 555853,
+      "strand": -1
+    },
+    "fabG": {
+      "end": 558405,
+      "start": 557661,
+      "strand": -1
+    },
+    "fabH": {
+      "end": 203986,
+      "start": 202990,
+      "strand": 1
+    },
+    "fabI": {
+      "end": 198604,
+      "start": 197776,
+      "strand": 1
+    },
+    "fabZ": {
+      "end": 1413852,
+      "start": 1413372,
+      "strand": -1
+    },
+    "fadA": {
+      "end": 713083,
+      "start": 711907,
+      "strand": -1
+    },
+    "fba": {
+      "end": 177087,
+      "start": 176163,
+      "strand": 1
+    },
+    "fbcF": {
+      "end": 1609735,
+      "start": 1609231,
+      "strand": 1
+    },
+    "fbcH": {
+      "end": 1610984,
+      "start": 1609745,
+      "strand": 1
+    },
+    "fbp": {
+      "end": 1588099,
+      "start": 1587226,
+      "strand": 1
+    },
+    "fcl": {
+      "end": 44312,
+      "start": 43379,
+      "strand": 1
+    },
+    "fecA_1": {
+      "end": 697399,
+      "start": 695095,
+      "strand": -1
+    },
+    "fecA_2": {
+      "end": 825724,
+      "start": 823345,
+      "strand": -1
+    },
+    "fecA_3": {
+      "end": 1573606,
+      "start": 1571080,
+      "strand": -1
+    },
+    "fecD": {
+      "end": 906926,
+      "start": 905945,
+      "strand": -1
+    },
+    "fecE": {
+      "end": 905946,
+      "start": 905178,
+      "strand": -1
+    },
+    "feoB": {
+      "end": 699583,
+      "start": 697654,
+      "strand": -1
+    },
+    "ffh": {
+      "end": 1195619,
+      "start": 1194272,
+      "strand": -1
+    },
+    "fic": {
+      "end": 1207149,
+      "start": 1206621,
+      "strand": 1
+    },
+    "fixI": {
+      "end": 1528913,
+      "start": 1526546,
+      "strand": -1
+    },
+    "fixN": {
+      "end": 150739,
+      "start": 149272,
+      "strand": 1
+    },
+    "fixO": {
+      "end": 151450,
+      "start": 150751,
+      "strand": 1
+    },
+    "fixP": {
+      "end": 152559,
+      "start": 151680,
+      "strand": 1
+    },
+    "fixS": {
+      "end": 1209198,
+      "start": 1209006,
+      "strand": 1
+    },
+    "flaA": {
+      "end": 599486,
+      "start": 597953,
+      "strand": 1
+    },
+    "flaA1": {
+      "end": 857200,
+      "start": 856198,
+      "strand": 1
+    },
+    "flaB": {
+      "end": 120475,
+      "start": 118930,
+      "strand": -1
+    },
+    "flaG": {
+      "end": 769084,
+      "start": 768724,
+      "strand": 1
+    },
+    "fldA": {
+      "end": 1208209,
+      "start": 1207714,
+      "strand": -1
+    },
+    "flgB": {
+      "end": 1617503,
+      "start": 1617080,
+      "strand": -1
+    },
+    "flgC": {
+      "end": 1617068,
+      "start": 1616582,
+      "strand": -1
+    },
+    "flgD": {
+      "end": 924719,
+      "start": 923627,
+      "strand": 1
+    },
+    "flgE_1": {
+      "end": 883934,
+      "start": 881777,
+      "strand": -1
+    },
+    "flgE_2": {
+      "end": 926533,
+      "start": 924715,
+      "strand": 1
+    },
+    "flgG_1": {
+      "end": 361147,
+      "start": 360337,
+      "strand": -1
+    },
+    "flgG_2": {
+      "end": 1640442,
+      "start": 1639653,
+      "strand": 1
+    },
+    "flgH": {
+      "end": 337272,
+      "start": 336558,
+      "strand": 1
+    },
+    "flgI": {
+      "end": 252302,
+      "start": 251273,
+      "strand": -1
+    },
+    "flgK": {
+      "end": 1166044,
+      "start": 1164223,
+      "strand": -1
+    },
+    "flgL": {
+      "end": 312040,
+      "start": 309553,
+      "strand": -1
+    },
+    "flgM": {
+      "end": 1168615,
+      "start": 1168411,
+      "strand": -1
+    },
+    "flhA": {
+      "end": 413624,
+      "start": 411422,
+      "strand": -1
+    },
+    "flhB_1": {
+      "end": 785651,
+      "start": 784574,
+      "strand": 1
+    },
+    "flhB_2": {
+      "end": 1631678,
+      "start": 1631405,
+      "strand": 1
+    },
+    "flhF": {
+      "end": 418940,
+      "start": 417572,
+      "strand": 1
+    },
+    "flhG": {
+      "end": 419821,
+      "start": 418936,
+      "strand": 1
+    },
+    "fliA": {
+      "end": 420885,
+      "start": 420117,
+      "strand": 1
+    },
+    "fliD": {
+      "end": 771158,
+      "start": 769100,
+      "strand": 1
+    },
+    "fliE": {
+      "end": 1616455,
+      "start": 1616125,
+      "strand": -1
+    },
+    "fliF": {
+      "end": 353531,
+      "start": 351827,
+      "strand": 1
+    },
+    "fliG": {
+      "end": 354579,
+      "start": 353547,
+      "strand": 1
+    },
+    "fliH": {
+      "end": 355342,
+      "start": 354565,
+      "strand": 1
+    },
+    "fliI": {
+      "end": 1444449,
+      "start": 1443144,
+      "strand": -1
+    },
+    "fliL": {
+      "end": 826839,
+      "start": 826287,
+      "strand": -1
+    },
+    "fliM": {
+      "end": 421942,
+      "start": 420877,
+      "strand": 1
+    },
+    "fliN": {
+      "end": 578946,
+      "start": 578574,
+      "strand": -1
+    },
+    "fliP": {
+      "end": 695052,
+      "start": 694305,
+      "strand": 1
+    },
+    "fliQ": {
+      "end": 1443134,
+      "start": 1442867,
+      "strand": -1
+    },
+    "fliR": {
+      "end": 174060,
+      "start": 173292,
+      "strand": -1
+    },
+    "fliS": {
+      "end": 771580,
+      "start": 771199,
+      "strand": 1
+    },
+    "fliY": {
+      "end": 422803,
+      "start": 421945,
+      "strand": 1
+    },
+    "fmt": {
+      "end": 1183266,
+      "start": 1182348,
+      "strand": -1
+    },
+    "folB": {
+      "end": 1535674,
+      "start": 1535320,
+      "strand": 1
+    },
+    "folC": {
+      "end": 1603895,
+      "start": 1602725,
+      "strand": 1
+    },
+    "folD": {
+      "end": 571953,
+      "start": 571080,
+      "strand": -1
+    },
+    "folK": {
+      "end": 417576,
+      "start": 417084,
+      "strand": 1
+    },
+    "folP": {
+      "end": 1285428,
+      "start": 1284285,
+      "strand": 1
+    },
+    "frdA": {
+      "end": 196076,
+      "start": 193931,
+      "strand": -1
+    },
+    "frdB": {
+      "end": 193939,
+      "start": 193201,
+      "strand": -1
+    },
+    "frdC": {
+      "end": 196853,
+      "start": 196085,
+      "strand": -1
+    },
+    "frpB": {
+      "end": 939805,
+      "start": 937357,
+      "strand": -1
+    },
+    "frpB_2": {
+      "end": 891083,
+      "start": 888707,
+      "strand": 1
+    },
+    "frpB_3": {
+      "end": 1538792,
+      "start": 1536152,
+      "strand": 1
+    },
+    "frr": {
+      "end": 1311028,
+      "start": 1310470,
+      "strand": 1
+    },
+    "ftsA": {
+      "end": 1010479,
+      "start": 1008997,
+      "strand": 1
+    },
+    "ftsE": {
+      "end": 766640,
+      "start": 765968,
+      "strand": 1
+    },
+    "ftsH_1": {
+      "end": 294138,
+      "start": 292485,
+      "strand": 1
+    },
+    "ftsH_2": {
+      "end": 388725,
+      "start": 386826,
+      "strand": -1
+    },
+    "ftsI": {
+      "end": 1615970,
+      "start": 1614128,
+      "strand": -1
+    },
+    "ftsK": {
+      "end": 365436,
+      "start": 362901,
+      "strand": -1
+    },
+    "ftsW": {
+      "end": 1618874,
+      "start": 1617707,
+      "strand": 1
+    },
+    "ftsX": {
+      "end": 767433,
+      "start": 766626,
+      "strand": 1
+    },
+    "ftsY": {
+      "end": 780016,
+      "start": 779134,
+      "strand": 1
+    },
+    "ftsZ": {
+      "end": 1011764,
+      "start": 1010606,
+      "strand": 1
+    },
+    "fucA": {
+      "end": 116656,
+      "start": 116017,
+      "strand": 1
+    },
+    "fucT": {
+      "end": 660538,
+      "start": 659173,
+      "strand": -1
+    },
+    "fumC": {
+      "end": 1363355,
+      "start": 1361963,
+      "strand": -1
+    },
+    "fur": {
+      "end": 424341,
+      "start": 423888,
+      "strand": -1
+    },
+    "fusA": {
+      "end": 1245736,
+      "start": 1243657,
+      "strand": -1
+    },
+    "g6pD": {
+      "end": 1140472,
+      "start": 1139194,
+      "strand": 1
+    },
+    "galE": {
+      "end": 1132285,
+      "start": 1131250,
+      "strand": -1
+    },
+    "galU": {
+      "end": 655376,
+      "start": 654554,
+      "strand": 1
+    },
+    "gap_1": {
+      "end": 945610,
+      "start": 944611,
+      "strand": 1
+    },
+    "gap_2": {
+      "end": 1383863,
+      "start": 1382870,
+      "strand": -1
+    },
+    "gatA": {
+      "end": 848201,
+      "start": 846839,
+      "strand": -1
+    },
+    "gatB": {
+      "end": 669701,
+      "start": 668276,
+      "strand": 1
+    },
+    "gatC": {
+      "end": 1005973,
+      "start": 1005691,
+      "strand": 1
+    },
+    "gdhA": {
+      "end": 1111928,
+      "start": 1110581,
+      "strand": 1
+    },
+    "ggt": {
+      "end": 1164036,
+      "start": 1162332,
+      "strand": -1
+    },
+    "gidA": {
+      "end": 218862,
+      "start": 216996,
+      "strand": -1
+    },
+    "gidB": {
+      "end": 392322,
+      "start": 391785,
+      "strand": -1
+    },
+    "glcD": {
+      "end": 499105,
+      "start": 497725,
+      "strand": 1
+    },
+    "glk": {
+      "end": 1142163,
+      "start": 1141152,
+      "strand": 1
+    },
+    "glmS": {
+      "end": 1561935,
+      "start": 1560141,
+      "strand": 1
+    },
+    "glmU": {
+      "end": 694209,
+      "start": 692907,
+      "strand": -1
+    },
+    "glnA": {
+      "end": 502675,
+      "start": 501229,
+      "strand": -1
+    },
+    "glnH": {
+      "end": 1220473,
+      "start": 1219639,
+      "strand": 1
+    },
+    "glnP_1": {
+      "end": 1218170,
+      "start": 1217516,
+      "strand": 1
+    },
+    "glnP_2": {
+      "end": 1218843,
+      "start": 1218171,
+      "strand": 1
+    },
+    "glnQ": {
+      "end": 1219591,
+      "start": 1218844,
+      "strand": 1
+    },
+    "glpC": {
+      "end": 677440,
+      "start": 676138,
+      "strand": 1
+    },
+    "gltA": {
+      "end": 27595,
+      "start": 26314,
+      "strand": -1
+    },
+    "gltS": {
+      "end": 1531885,
+      "start": 1530658,
+      "strand": -1
+    },
+    "gltX_1": {
+      "end": 461835,
+      "start": 460443,
+      "strand": -1
+    },
+    "gltX_2": {
+      "end": 652577,
+      "start": 651257,
+      "strand": 1
+    },
+    "gluP": {
+      "end": 1222646,
+      "start": 1221422,
+      "strand": -1
+    },
+    "glyA": {
+      "end": 187501,
+      "start": 186250,
+      "strand": 1
+    },
+    "glyQ": {
+      "end": 987950,
+      "start": 987053,
+      "strand": -1
+    },
+    "glyS": {
+      "end": 1002984,
+      "start": 1000878,
+      "strand": -1
+    },
+    "gmd": {
+      "end": 43387,
+      "start": 42241,
+      "strand": 1
+    },
+    "gmhA": {
+      "end": 872276,
+      "start": 871697,
+      "strand": -1
+    },
+    "gmhD": {
+      "end": 874646,
+      "start": 873656,
+      "strand": -1
+    },
+    "gmk": {
+      "end": 333498,
+      "start": 332877,
+      "strand": -1
+    },
+    "gppA": {
+      "end": 283794,
+      "start": 282339,
+      "strand": 1
+    },
+    "gpsA": {
+      "end": 988902,
+      "start": 987963,
+      "strand": -1
+    },
+    "gpt": {
+      "end": 753452,
+      "start": 752990,
+      "strand": -1
+    },
+    "greA": {
+      "end": 879775,
+      "start": 879280,
+      "strand": -1
+    },
+    "groEL": {
+      "end": 9398,
+      "start": 7757,
+      "strand": -1
+    },
+    "groES": {
+      "end": 9779,
+      "start": 9422,
+      "strand": -1
+    },
+    "grpE": {
+      "end": 114979,
+      "start": 114403,
+      "strand": -1
+    },
+    "gsp": {
+      "end": 240681,
+      "start": 239508,
+      "strand": 1
+    },
+    "gtp1": {
+      "end": 565912,
+      "start": 564811,
+      "strand": -1
+    },
+    "guaA": {
+      "end": 1079695,
+      "start": 1078168,
+      "strand": -1
+    },
+    "guaB": {
+      "end": 846830,
+      "start": 845384,
+      "strand": -1
+    },
+    "guaC": {
+      "end": 871674,
+      "start": 870696,
+      "strand": 1
+    },
+    "gyrA": {
+      "end": 717257,
+      "start": 714770,
+      "strand": 1
+    },
+    "gyrB": {
+      "end": 492505,
+      "start": 490183,
+      "strand": 1
+    },
+    "hcpA": {
+      "end": 215373,
+      "start": 214620,
+      "strand": -1
+    },
+    "hcpC": {
+      "end": 1136588,
+      "start": 1135715,
+      "strand": -1
+    },
+    "hcpD": {
+      "end": 163289,
+      "start": 162371,
+      "strand": 1
+    },
+    "hcpE": {
+      "end": 243054,
+      "start": 241986,
+      "strand": -1
+    },
+    "hcpF": {
+      "end": 635891,
+      "start": 634832,
+      "strand": 1
+    },
+    "hcpG": {
+      "end": 1585623,
+      "start": 1584852,
+      "strand": 1
+    },
+    "hcpH": {
+      "end": 345566,
+      "start": 344810,
+      "strand": 1
+    },
+    "hcpX": {
+      "end": 1162089,
+      "start": 1161318,
+      "strand": -1
+    },
+    "hdhA": {
+      "end": 436878,
+      "start": 436089,
+      "strand": -1
+    },
+    "hefA": {
+      "end": 603405,
+      "start": 601971,
+      "strand": 1
+    },
+    "hemA": {
+      "end": 247550,
+      "start": 246200,
+      "strand": -1
+    },
+    "hemB": {
+      "end": 165664,
+      "start": 164692,
+      "strand": -1
+    },
+    "hemC": {
+      "end": 244456,
+      "start": 243535,
+      "strand": -1
+    },
+    "hemD": {
+      "end": 1279329,
+      "start": 1278657,
+      "strand": 1
+    },
+    "hemE": {
+      "end": 601962,
+      "start": 600942,
+      "strand": 1
+    },
+    "hemH": {
+      "end": 1117833,
+      "start": 1116825,
+      "strand": -1
+    },
+    "hemK": {
+      "end": 1110515,
+      "start": 1109684,
+      "strand": 1
+    },
+    "hemL": {
+      "end": 322597,
+      "start": 321304,
+      "strand": 1
+    },
+    "hemN_1": {
+      "end": 676142,
+      "start": 674768,
+      "strand": 1
+    },
+    "hemN_2": {
+      "end": 1280866,
+      "start": 1279828,
+      "strand": -1
+    },
+    "hisS": {
+      "end": 1241656,
+      "start": 1240327,
+      "strand": -1
+    },
+    "hisT": {
+      "end": 1131257,
+      "start": 1130528,
+      "strand": 1
+    },
+    "hofA": {
+      "end": 212455,
+      "start": 211138,
+      "strand": 1
+    },
+    "hofB": {
+      "end": 374454,
+      "start": 373014,
+      "strand": 1
+    },
+    "hofD": {
+      "end": 475345,
+      "start": 473947,
+      "strand": 1
+    },
+    "hofE": {
+      "end": 800414,
+      "start": 799046,
+      "strand": 1
+    },
+    "hofF": {
+      "end": 807731,
+      "start": 806231,
+      "strand": 1
+    },
+    "hofG": {
+      "end": 937020,
+      "start": 935475,
+      "strand": -1
+    },
+    "hofH": {
+      "end": 1214786,
+      "start": 1213370,
+      "strand": 1
+    },
+    "holA": {
+      "end": 1301722,
+      "start": 1300699,
+      "strand": -1
+    },
+    "holB": {
+      "end": 1284289,
+      "start": 1283632,
+      "strand": 1
+    },
+    "homA": {
+      "end": 728401,
+      "start": 726427,
+      "strand": 1
+    },
+    "homC": {
+      "end": 1121340,
+      "start": 1119084,
+      "strand": -1
+    },
+    "hopA": {
+      "end": 236993,
+      "start": 235541,
+      "strand": -1
+    },
+    "hopB": {
+      "end": 934691,
+      "start": 933107,
+      "strand": 1
+    },
+    "hopC": {
+      "end": 933086,
+      "start": 931523,
+      "strand": 1
+    },
+    "hopD": {
+      "end": 25610,
+      "start": 23537,
+      "strand": -1
+    },
+    "hopE": {
+      "end": 723356,
+      "start": 722543,
+      "strand": 1
+    },
+    "hopF_1": {
+      "end": 260066,
+      "start": 258626,
+      "strand": 1
+    },
+    "hopF_2": {
+      "end": 261494,
+      "start": 260078,
+      "strand": 1
+    },
+    "hopH": {
+      "end": 646696,
+      "start": 645772,
+      "strand": 1
+    },
+    "hopI": {
+      "end": 1202072,
+      "start": 1199978,
+      "strand": 1
+    },
+    "hopJ": {
+      "end": 463068,
+      "start": 461952,
+      "strand": 1
+    },
+    "hopK": {
+      "end": 954043,
+      "start": 952942,
+      "strand": 1
+    },
+    "hopL": {
+      "end": 1205808,
+      "start": 1202094,
+      "strand": 1
+    },
+    "hopM": {
+      "end": 233889,
+      "start": 231798,
+      "strand": -1
+    },
+    "hopN": {
+      "end": 1379823,
+      "start": 1377732,
+      "strand": 1
+    },
+    "hopQ": {
+      "end": 1226455,
+      "start": 1224523,
+      "strand": -1
+    },
+    "hopZ": {
+      "end": 7443,
+      "start": 5435,
+      "strand": -1
+    },
+    "horA": {
+      "end": 80353,
+      "start": 79585,
+      "strand": 1
+    },
+    "horB": {
+      "end": 132173,
+      "start": 131312,
+      "strand": 1
+    },
+    "horC": {
+      "end": 336425,
+      "start": 335687,
+      "strand": -1
+    },
+    "horE": {
+      "end": 457872,
+      "start": 457311,
+      "strand": -1
+    },
+    "horF": {
+      "end": 683436,
+      "start": 682623,
+      "strand": 1
+    },
+    "horG_1": {
+      "end": 816403,
+      "start": 815566,
+      "strand": -1
+    },
+    "horG_2": {
+      "end": 1171011,
+      "start": 1170471,
+      "strand": -1
+    },
+    "horH": {
+      "end": 1148056,
+      "start": 1147393,
+      "strand": -1
+    },
+    "horI": {
+      "end": 1154059,
+      "start": 1153225,
+      "strand": 1
+    },
+    "horJ": {
+      "end": 1492362,
+      "start": 1491615,
+      "strand": -1
+    },
+    "horK": {
+      "end": 1525934,
+      "start": 1524767,
+      "strand": -1
+    },
+    "horL": {
+      "end": 1580429,
+      "start": 1579700,
+      "strand": -1
+    },
+    "hpaA_1": {
+      "end": 817207,
+      "start": 816424,
+      "strand": -1
+    },
+    "hpaA_2": {
+      "end": 1078085,
+      "start": 1077335,
+      "strand": -1
+    },
+    "hpaim": {
+      "end": 269414,
+      "start": 268655,
+      "strand": 1
+    },
+    "hpn": {
+      "end": 1449556,
+      "start": 1449373,
+      "strand": -1
+    },
+    "hpn-like": {
+      "end": 1450061,
+      "start": 1449827,
+      "strand": -1
+    },
+    "hpyAIVR/ -": {
+      "end": 1388981,
+      "start": 1388108,
+      "strand": -1
+    },
+    "hrcA": {
+      "end": 115779,
+      "start": 114978,
+      "strand": -1
+    },
+    "hsdM": {
+      "end": 95119,
+      "start": 94285,
+      "strand": 1
+    },
+    "hsdM_1": {
+      "end": 445741,
+      "start": 444109,
+      "strand": -1
+    },
+    "hsdM_2": {
+      "end": 867048,
+      "start": 865461,
+      "strand": -1
+    },
+    "hsdM_3": {
+      "end": 1567234,
+      "start": 1564786,
+      "strand": -1
+    },
+    "hsdR": {
+      "end": 94289,
+      "start": 93457,
+      "strand": 1
+    },
+    "hsdR_1": {
+      "end": 448250,
+      "start": 445733,
+      "strand": -1
+    },
+    "hsdR_2": {
+      "end": 864272,
+      "start": 861644,
+      "strand": -1
+    },
+    "hsdR_3": {
+      "end": 1570280,
+      "start": 1567304,
+      "strand": 1
+    },
+    "hsdS_1a": {
+      "end": 444117,
+      "start": 442887,
+      "strand": -1
+    },
+    "hsdS_2": {
+      "end": 865451,
+      "start": 864827,
+      "strand": -1
+    },
+    "hsdS_3a": {
+      "end": 1564790,
+      "start": 1562915,
+      "strand": -1
+    },
+    "hsdS_4": {
+      "end": 809307,
+      "start": 807942,
+      "strand": -1
+    },
+    "hslU": {
+      "end": 507322,
+      "start": 505990,
+      "strand": 1
+    },
+    "hslV": {
+      "end": 505991,
+      "start": 505448,
+      "strand": 1
+    },
+    "hspR": {
+      "end": 426044,
+      "start": 425672,
+      "strand": -1
+    },
+    "htpG": {
+      "end": 214424,
+      "start": 212558,
+      "strand": 1
+    },
+    "htpX": {
+      "end": 957130,
+      "start": 956197,
+      "strand": 1
+    },
+    "htrA": {
+      "end": 433268,
+      "start": 431837,
+      "strand": -1
+    },
+    "huNaDC_1": {
+      "end": 220604,
+      "start": 218957,
+      "strand": 1
+    },
+    "hup": {
+      "end": 852513,
+      "start": 852228,
+      "strand": 1
+    },
+    "hydA": {
+      "end": 640097,
+      "start": 638942,
+      "strand": 1
+    },
+    "hydB": {
+      "end": 641843,
+      "start": 640106,
+      "strand": 1
+    },
+    "hydC": {
+      "end": 642530,
+      "start": 641855,
+      "strand": 1
+    },
+    "hydD": {
+      "end": 643063,
+      "start": 642526,
+      "strand": 1
+    },
+    "hylB": {
+      "end": 595946,
+      "start": 594644,
+      "strand": -1
+    },
+    "hypA": {
+      "end": 881719,
+      "start": 881365,
+      "strand": -1
+    },
+    "hypB": {
+      "end": 918489,
+      "start": 917760,
+      "strand": -1
+    },
+    "hypC": {
+      "end": 917761,
+      "start": 917524,
+      "strand": -1
+    },
+    "hypD": {
+      "end": 917510,
+      "start": 916397,
+      "strand": -1
+    },
+    "hypE": {
+      "end": 46188,
+      "start": 45189,
+      "strand": -1
+    },
+    "hypF": {
+      "end": 48464,
+      "start": 46190,
+      "strand": -1
+    },
+    "hyuA": {
+      "end": 707825,
+      "start": 705686,
+      "strand": -1
+    },
+    "ibpB": {
+      "end": 285784,
+      "start": 284797,
+      "strand": 1
+    },
+    "icd": {
+      "end": 29073,
+      "start": 27795,
+      "strand": 1
+    },
+    "icfA": {
+      "end": 2431,
+      "start": 1765,
+      "strand": -1
+    },
+    "ileS": {
+      "end": 1448143,
+      "start": 1445380,
+      "strand": -1
+    },
+    "ilvC": {
+      "end": 342278,
+      "start": 341285,
+      "strand": 1
+    },
+    "ilvE": {
+      "end": 1491565,
+      "start": 1490542,
+      "strand": -1
+    },
+    "infA": {
+      "end": 1348320,
+      "start": 1348101,
+      "strand": -1
+    },
+    "infB": {
+      "end": 406488,
+      "start": 403638,
+      "strand": 1
+    },
+    "infC": {
+      "end": 130493,
+      "start": 129881,
+      "strand": 1
+    },
+    "ispA": {
+      "end": 959067,
+      "start": 958155,
+      "strand": 1
+    },
+    "ispB": {
+      "end": 248473,
+      "start": 247549,
+      "strand": -1
+    },
+    "ispDF": {
+      "end": 431816,
+      "start": 430586,
+      "strand": -1
+    },
+    "ispE": {
+      "end": 1467503,
+      "start": 1466678,
+      "strand": 1
+    },
+    "ispG": {
+      "end": 633613,
+      "start": 632533,
+      "strand": 1
+    },
+    "ispH": {
+      "end": 1090616,
+      "start": 1089791,
+      "strand": 1
+    },
+    "jhp0011": {
+      "end": 12795,
+      "start": 11742,
+      "strand": 1
+    },
+    "jhp0012": {
+      "end": 13712,
+      "start": 12884,
+      "strand": 1
+    },
+    "jhp0016": {
+      "end": 18417,
+      "start": 17007,
+      "strand": 1
+    },
+    "jhp0019": {
+      "end": 21339,
+      "start": 20763,
+      "strand": -1
+    },
+    "jhp0020": {
+      "end": 22921,
+      "start": 21349,
+      "strand": -1
+    },
+    "jhp0024": {
+      "end": 29665,
+      "start": 29137,
+      "strand": 1
+    },
+    "jhp0026": {
+      "end": 31999,
+      "start": 30301,
+      "strand": -1
+    },
+    "jhp0027": {
+      "end": 32524,
+      "start": 32110,
+      "strand": 1
+    },
+    "jhp0028": {
+      "end": 32798,
+      "start": 32525,
+      "strand": 1
+    },
+    "jhp0031": {
+      "end": 35674,
+      "start": 35371,
+      "strand": 1
+    },
+    "jhp0032": {
+      "end": 36678,
+      "start": 35670,
+      "strand": 1
+    },
+    "jhp0042": {
+      "end": 49432,
+      "start": 48439,
+      "strand": -1
+    },
+    "jhp0044": {
+      "end": 50718,
+      "start": 50160,
+      "strand": -1
+    },
+    "jhp0045": {
+      "end": 52183,
+      "start": 51151,
+      "strand": -1
+    },
+    "jhp0046": {
+      "end": 52975,
+      "start": 52192,
+      "strand": -1
+    },
+    "jhp0049": {
+      "end": 59007,
+      "start": 58797,
+      "strand": 1
+    },
+    "jhp0050": {
+      "end": 59997,
+      "start": 59334,
+      "strand": 1
+    },
+    "jhp0051": {
+      "end": 60489,
+      "start": 60126,
+      "strand": 1
+    },
+    "jhp0052": {
+      "end": 61473,
+      "start": 60489,
+      "strand": 1
+    },
+    "jhp0053": {
+      "end": 61915,
+      "start": 61483,
+      "strand": 1
+    },
+    "jhp0054": {
+      "end": 63664,
+      "start": 62095,
+      "strand": 1
+    },
+    "jhp0055": {
+      "end": 63901,
+      "start": 63664,
+      "strand": 1
+    },
+    "jhp0056": {
+      "end": 64467,
+      "start": 63897,
+      "strand": 1
+    },
+    "jhp0057": {
+      "end": 64743,
+      "start": 64482,
+      "strand": 1
+    },
+    "jhp0058": {
+      "end": 66256,
+      "start": 64753,
+      "strand": 1
+    },
+    "jhp0059": {
+      "end": 66645,
+      "start": 66225,
+      "strand": 1
+    },
+    "jhp0060": {
+      "end": 67000,
+      "start": 66646,
+      "strand": 1
+    },
+    "jhp0061": {
+      "end": 69413,
+      "start": 66992,
+      "strand": 1
+    },
+    "jhp0074": {
+      "end": 82376,
+      "start": 80603,
+      "strand": 1
+    },
+    "jhp0078": {
+      "end": 86322,
+      "start": 86133,
+      "strand": -1
+    },
+    "jhp0080": {
+      "end": 89108,
+      "start": 87734,
+      "strand": -1
+    },
+    "jhp0086": {
+      "end": 96039,
+      "start": 95138,
+      "strand": -1
+    },
+    "jhp0087": {
+      "end": 96665,
+      "start": 96134,
+      "strand": -1
+    },
+    "jhp0088": {
+      "end": 97682,
+      "start": 96737,
+      "strand": 1
+    },
+    "jhp0089": {
+      "end": 98519,
+      "start": 97805,
+      "strand": -1
+    },
+    "jhp0092": {
+      "end": 103410,
+      "start": 102303,
+      "strand": 1
+    },
+    "jhp0093": {
+      "end": 104388,
+      "start": 103626,
+      "strand": 1
+    },
+    "jhp0094": {
+      "end": 105153,
+      "start": 104370,
+      "strand": -1
+    },
+    "jhp0100": {
+      "end": 112138,
+      "start": 111679,
+      "strand": 1
+    },
+    "jhp0105": {
+      "end": 116990,
+      "start": 116693,
+      "strand": 1
+    },
+    "jhp0106": {
+      "end": 118883,
+      "start": 116999,
+      "strand": -1
+    },
+    "jhp0109": {
+      "end": 123770,
+      "start": 122843,
+      "strand": 1
+    },
+    "jhp0110": {
+      "end": 125153,
+      "start": 123914,
+      "strand": -1
+    },
+    "jhp0112": {
+      "end": 128007,
+      "start": 127875,
+      "strand": 1
+    },
+    "jhp0118": {
+      "end": 133084,
+      "start": 132652,
+      "strand": 1
+    },
+    "jhp0119": {
+      "end": 134353,
+      "start": 133495,
+      "strand": 1
+    },
+    "jhp0123": {
+      "end": 139546,
+      "start": 139411,
+      "strand": 1
+    },
+    "jhp0125": {
+      "end": 140874,
+      "start": 140238,
+      "strand": -1
+    },
+    "jhp0126": {
+      "end": 142312,
+      "start": 140866,
+      "strand": -1
+    },
+    "jhp0127": {
+      "end": 143069,
+      "start": 142340,
+      "strand": -1
+    },
+    "jhp0131": {
+      "end": 149103,
+      "start": 147654,
+      "strand": -1
+    },
+    "jhp0136": {
+      "end": 152776,
+      "start": 152569,
+      "strand": 1
+    },
+    "jhp0137": {
+      "end": 153470,
+      "start": 152876,
+      "strand": 1
+    },
+    "jhp0138": {
+      "end": 154064,
+      "start": 153482,
+      "strand": 1
+    },
+    "jhp0139": {
+      "end": 155443,
+      "start": 154675,
+      "strand": 1
+    },
+    "jhp0140": {
+      "end": 156303,
+      "start": 155439,
+      "strand": -1
+    },
+    "jhp0143": {
+      "end": 159005,
+      "start": 158729,
+      "strand": 1
+    },
+    "jhp0144": {
+      "end": 159618,
+      "start": 159021,
+      "strand": 1
+    },
+    "jhp0146": {
+      "end": 161089,
+      "start": 160132,
+      "strand": 1
+    },
+    "jhp0149": {
+      "end": 164692,
+      "start": 163969,
+      "strand": -1
+    },
+    "jhp0153": {
+      "end": 168598,
+      "start": 168124,
+      "strand": -1
+    },
+    "jhp0154": {
+      "end": 168840,
+      "start": 168576,
+      "strand": -1
+    },
+    "jhp0156": {
+      "end": 170889,
+      "start": 170157,
+      "strand": -1
+    },
+    "jhp0160": {
+      "end": 174782,
+      "start": 174053,
+      "strand": -1
+    },
+    "jhp0161": {
+      "end": 176150,
+      "start": 175250,
+      "strand": 1
+    },
+    "jhp0164": {
+      "end": 179565,
+      "start": 178218,
+      "strand": 1
+    },
+    "jhp0165": {
+      "end": 180778,
+      "start": 179557,
+      "strand": 1
+    },
+    "jhp0167": {
+      "end": 182516,
+      "start": 181874,
+      "strand": -1
+    },
+    "jhp0169": {
+      "end": 184736,
+      "start": 184025,
+      "strand": 1
+    },
+    "jhp0172": {
+      "end": 188053,
+      "start": 187510,
+      "strand": 1
+    },
+    "jhp0173": {
+      "end": 188881,
+      "start": 188074,
+      "strand": 1
+    },
+    "jhp0174": {
+      "end": 190976,
+      "start": 189272,
+      "strand": -1
+    },
+    "jhp0175": {
+      "end": 191665,
+      "start": 191131,
+      "strand": 1
+    },
+    "jhp0176": {
+      "end": 193180,
+      "start": 191671,
+      "strand": -1
+    },
+    "jhp0185": {
+      "end": 201708,
+      "start": 201351,
+      "strand": 1
+    },
+    "jhp0189": {
+      "end": 204312,
+      "start": 204009,
+      "strand": 1
+    },
+    "jhp0190": {
+      "end": 205385,
+      "start": 205001,
+      "strand": -1
+    },
+    "jhp0191": {
+      "end": 208213,
+      "start": 205462,
+      "strand": -1
+    },
+    "jhp0192": {
+      "end": 208507,
+      "start": 208249,
+      "strand": -1
+    },
+    "jhp0194": {
+      "end": 210956,
+      "start": 209769,
+      "strand": -1
+    },
+    "jhp0204": {
+      "end": 224353,
+      "start": 223801,
+      "strand": -1
+    },
+    "jhp0205": {
+      "end": 224958,
+      "start": 224472,
+      "strand": 1
+    },
+    "jhp0207": {
+      "end": 227291,
+      "start": 226310,
+      "strand": 1
+    },
+    "jhp0208": {
+      "end": 227715,
+      "start": 227454,
+      "strand": 1
+    },
+    "jhp0211": {
+      "end": 231581,
+      "start": 230747,
+      "strand": -1
+    },
+    "jhp0213": {
+      "end": 235300,
+      "start": 234142,
+      "strand": 1
+    },
+    "jhp0216": {
+      "end": 238824,
+      "start": 238026,
+      "strand": 1
+    },
+    "jhp0217": {
+      "end": 239487,
+      "start": 238839,
+      "strand": 1
+    },
+    "jhp0219": {
+      "end": 241211,
+      "start": 240680,
+      "strand": 1
+    },
+    "jhp0221": {
+      "end": 243536,
+      "start": 243164,
+      "strand": -1
+    },
+    "jhp0226": {
+      "end": 248878,
+      "start": 248482,
+      "strand": -1
+    },
+    "jhp0227": {
+      "end": 249155,
+      "start": 248870,
+      "strand": -1
+    },
+    "jhp0230": {
+      "end": 251277,
+      "start": 250959,
+      "strand": -1
+    },
+    "jhp0233": {
+      "end": 255072,
+      "start": 253983,
+      "strand": 1
+    },
+    "jhp0234": {
+      "end": 255618,
+      "start": 255078,
+      "strand": 1
+    },
+    "jhp0240": {
+      "end": 263253,
+      "start": 262824,
+      "strand": 1
+    },
+    "jhp0241": {
+      "end": 263914,
+      "start": 263245,
+      "strand": 1
+    },
+    "jhp0242": {
+      "end": 264966,
+      "start": 263910,
+      "strand": 1
+    },
+    "jhp0245": {
+      "end": 267883,
+      "start": 267424,
+      "strand": -1
+    },
+    "jhp0246": {
+      "end": 268478,
+      "start": 267959,
+      "strand": 1
+    },
+    "jhp0247": {
+      "end": 268659,
+      "start": 268449,
+      "strand": 1
+    },
+    "jhp0253": {
+      "end": 275682,
+      "start": 275439,
+      "strand": 1
+    },
+    "jhp0254": {
+      "end": 277005,
+      "start": 275691,
+      "strand": 1
+    },
+    "jhp0255": {
+      "end": 277692,
+      "start": 277038,
+      "strand": 1
+    },
+    "jhp0256": {
+      "end": 278668,
+      "start": 277684,
+      "strand": 1
+    },
+    "jhp0257": {
+      "end": 279191,
+      "start": 278657,
+      "strand": 1
+    },
+    "jhp0258": {
+      "end": 279727,
+      "start": 279187,
+      "strand": 1
+    },
+    "jhp0259": {
+      "end": 280142,
+      "start": 279743,
+      "strand": 1
+    },
+    "jhp0260": {
+      "end": 281474,
+      "start": 280178,
+      "strand": 1
+    },
+    "jhp0261": {
+      "end": 282019,
+      "start": 281461,
+      "strand": 1
+    },
+    "jhp0262": {
+      "end": 282330,
+      "start": 282075,
+      "strand": 1
+    },
+    "jhp0267": {
+      "end": 288648,
+      "start": 287211,
+      "strand": 1
+    },
+    "jhp0269": {
+      "end": 291246,
+      "start": 289674,
+      "strand": 1
+    },
+    "jhp0270": {
+      "end": 292499,
+      "start": 291242,
+      "strand": 1
+    },
+    "jhp0272": {
+      "end": 294659,
+      "start": 294140,
+      "strand": 1
+    },
+    "jhp0273": {
+      "end": 295145,
+      "start": 294671,
+      "strand": 1
+    },
+    "jhp0274": {
+      "end": 303921,
+      "start": 295212,
+      "strand": 1
+    },
+    "jhp0277": {
+      "end": 306378,
+      "start": 305505,
+      "strand": 1
+    },
+    "jhp0289": {
+      "end": 320475,
+      "start": 319479,
+      "strand": 1
+    },
+    "jhp0290": {
+      "end": 321295,
+      "start": 320740,
+      "strand": 1
+    },
+    "jhp0292": {
+      "end": 322865,
+      "start": 322586,
+      "strand": 1
+    },
+    "jhp0293": {
+      "end": 323285,
+      "start": 322880,
+      "strand": 1
+    },
+    "jhp0294": {
+      "end": 324253,
+      "start": 323368,
+      "strand": 1
+    },
+    "jhp0295": {
+      "end": 325147,
+      "start": 324265,
+      "strand": 1
+    },
+    "jhp0296": {
+      "end": 325561,
+      "start": 325192,
+      "strand": 1
+    },
+    "jhp0297": {
+      "end": 326526,
+      "start": 325560,
+      "strand": 1
+    },
+    "jhp0299": {
+      "end": 328633,
+      "start": 327877,
+      "strand": -1
+    },
+    "jhp0300": {
+      "end": 329334,
+      "start": 328632,
+      "strand": -1
+    },
+    "jhp0301": {
+      "end": 330662,
+      "start": 329906,
+      "strand": -1
+    },
+    "jhp0303": {
+      "end": 332806,
+      "start": 332566,
+      "strand": -1
+    },
+    "jhp0305": {
+      "end": 334996,
+      "start": 333490,
+      "strand": -1
+    },
+    "jhp0317": {
+      "end": 344552,
+      "start": 344147,
+      "strand": 1
+    },
+    "jhp0319": {
+      "end": 346089,
+      "start": 345750,
+      "strand": 1
+    },
+    "jhp0320": {
+      "end": 346633,
+      "start": 346072,
+      "strand": 1
+    },
+    "jhp0324": {
+      "end": 351784,
+      "start": 351121,
+      "strand": 1
+    },
+    "jhp0330": {
+      "end": 359779,
+      "start": 359020,
+      "strand": 1
+    },
+    "jhp0331": {
+      "end": 360018,
+      "start": 359721,
+      "strand": 1
+    },
+    "jhp0332": {
+      "end": 360310,
+      "start": 360049,
+      "strand": 1
+    },
+    "jhp0336": {
+      "end": 367769,
+      "start": 365432,
+      "strand": -1
+    },
+    "jhp0340": {
+      "end": 371762,
+      "start": 371252,
+      "strand": -1
+    },
+    "jhp0344": {
+      "end": 376817,
+      "start": 376193,
+      "strand": 1
+    },
+    "jhp0345": {
+      "end": 377390,
+      "start": 376820,
+      "strand": 1
+    },
+    "jhp0346": {
+      "end": 378668,
+      "start": 377522,
+      "strand": 1
+    },
+    "jhp0347": {
+      "end": 379357,
+      "start": 378853,
+      "strand": 1
+    },
+    "jhp0349": {
+      "end": 380935,
+      "start": 380413,
+      "strand": -1
+    },
+    "jhp0351": {
+      "end": 383227,
+      "start": 382408,
+      "strand": -1
+    },
+    "jhp0355": {
+      "end": 386824,
+      "start": 386563,
+      "strand": -1
+    },
+    "jhp0359": {
+      "end": 390994,
+      "start": 390391,
+      "strand": 1
+    },
+    "jhp0360": {
+      "end": 391547,
+      "start": 391139,
+      "strand": -1
+    },
+    "jhp0361": {
+      "end": 391843,
+      "start": 391549,
+      "strand": -1
+    },
+    "jhp0368": {
+      "end": 397344,
+      "start": 396621,
+      "strand": 1
+    },
+    "jhp0369": {
+      "end": 398191,
+      "start": 397321,
+      "strand": 1
+    },
+    "jhp0370": {
+      "end": 399144,
+      "start": 398202,
+      "strand": 1
+    },
+    "jhp0371": {
+      "end": 400476,
+      "start": 399153,
+      "strand": 1
+    },
+    "jhp0374": {
+      "end": 402466,
+      "start": 401968,
+      "strand": 1
+    },
+    "jhp0376": {
+      "end": 403642,
+      "start": 403372,
+      "strand": 1
+    },
+    "jhp0379": {
+      "end": 407256,
+      "start": 406815,
+      "strand": 1
+    },
+    "jhp0380": {
+      "end": 408529,
+      "start": 407416,
+      "strand": 1
+    },
+    "jhp0381": {
+      "end": 409553,
+      "start": 408881,
+      "strand": 1
+    },
+    "jhp0382": {
+      "end": 411389,
+      "start": 410345,
+      "strand": -1
+    },
+    "jhp0391": {
+      "end": 420109,
+      "start": 419833,
+      "strand": -1
+    },
+    "jhp0395": {
+      "end": 423369,
+      "start": 422832,
+      "strand": 1
+    },
+    "jhp0396": {
+      "end": 423869,
+      "start": 423365,
+      "strand": 1
+    },
+    "jhp0398": {
+      "end": 425676,
+      "start": 424500,
+      "strand": -1
+    },
+    "jhp0401": {
+      "end": 428338,
+      "start": 427087,
+      "strand": 1
+    },
+    "jhp0402": {
+      "end": 429448,
+      "start": 428581,
+      "strand": -1
+    },
+    "jhp0403": {
+      "end": 430565,
+      "start": 429668,
+      "strand": -1
+    },
+    "jhp0408": {
+      "end": 436080,
+      "start": 435471,
+      "strand": -1
+    },
+    "jhp0417": {
+      "end": 450819,
+      "start": 448923,
+      "strand": -1
+    },
+    "jhp0418": {
+      "end": 451611,
+      "start": 450843,
+      "strand": -1
+    },
+    "jhp0419": {
+      "end": 451968,
+      "start": 451620,
+      "strand": -1
+    },
+    "jhp0420": {
+      "end": 453424,
+      "start": 451936,
+      "strand": -1
+    },
+    "jhp0421": {
+      "end": 453924,
+      "start": 453435,
+      "strand": -1
+    },
+    "jhp0431": {
+      "end": 465528,
+      "start": 464679,
+      "strand": 1
+    },
+    "jhp0434": {
+      "end": 468848,
+      "start": 468320,
+      "strand": 1
+    },
+    "jhp0435": {
+      "end": 470085,
+      "start": 469029,
+      "strand": 1
+    },
+    "jhp0436": {
+      "end": 470830,
+      "start": 470275,
+      "strand": 1
+    },
+    "jhp0437": {
+      "end": 472013,
+      "start": 471068,
+      "strand": -1
+    },
+    "jhp0438": {
+      "end": 473876,
+      "start": 472289,
+      "strand": 1
+    },
+    "jhp0440": {
+      "end": 478598,
+      "start": 475859,
+      "strand": 1
+    },
+    "jhp0441": {
+      "end": 479212,
+      "start": 478666,
+      "strand": 1
+    },
+    "jhp0442": {
+      "end": 480588,
+      "start": 479451,
+      "strand": -1
+    },
+    "jhp0444": {
+      "end": 481911,
+      "start": 481062,
+      "strand": -1
+    },
+    "jhp0447": {
+      "end": 484617,
+      "start": 484356,
+      "strand": -1
+    },
+    "jhp0449": {
+      "end": 486568,
+      "start": 485239,
+      "strand": 1
+    },
+    "jhp0450": {
+      "end": 487907,
+      "start": 486578,
+      "strand": 1
+    },
+    "jhp0454": {
+      "end": 493543,
+      "start": 492511,
+      "strand": 1
+    },
+    "jhp0455": {
+      "end": 494285,
+      "start": 493529,
+      "strand": 1
+    },
+    "jhp0457": {
+      "end": 496358,
+      "start": 495719,
+      "strand": 1
+    },
+    "jhp0458": {
+      "end": 497721,
+      "start": 496368,
+      "strand": 1
+    },
+    "jhp0462": {
+      "end": 504933,
+      "start": 502812,
+      "strand": 1
+    },
+    "jhp0468": {
+      "end": 510155,
+      "start": 509303,
+      "strand": -1
+    },
+    "jhp0499": {
+      "end": 551411,
+      "start": 550541,
+      "strand": 1
+    },
+    "jhp0501": {
+      "end": 553086,
+      "start": 552120,
+      "strand": 1
+    },
+    "jhp0502": {
+      "end": 553904,
+      "start": 553082,
+      "strand": 1
+    },
+    "jhp0503": {
+      "end": 554412,
+      "start": 553974,
+      "strand": -1
+    },
+    "jhp0507": {
+      "end": 557564,
+      "start": 557483,
+      "strand": -1
+    },
+    "jhp0510": {
+      "end": 560007,
+      "start": 558756,
+      "strand": -1
+    },
+    "jhp0511": {
+      "end": 560426,
+      "start": 560180,
+      "strand": 1
+    },
+    "jhp0512": {
+      "end": 561097,
+      "start": 560449,
+      "strand": -1
+    },
+    "jhp0514": {
+      "end": 563195,
+      "start": 562145,
+      "strand": 1
+    },
+    "jhp0515": {
+      "end": 564668,
+      "start": 563900,
+      "strand": -1
+    },
+    "jhp0518": {
+      "end": 568030,
+      "start": 567451,
+      "strand": -1
+    },
+    "jhp0520": {
+      "end": 568977,
+      "start": 568644,
+      "strand": -1
+    },
+    "jhp0522": {
+      "end": 570200,
+      "start": 569501,
+      "strand": -1
+    },
+    "jhp0525": {
+      "end": 574075,
+      "start": 572038,
+      "strand": -1
+    },
+    "jhp0526": {
+      "end": 574635,
+      "start": 574083,
+      "strand": -1
+    },
+    "jhp0527": {
+      "end": 575760,
+      "start": 574641,
+      "strand": -1
+    },
+    "jhp0530": {
+      "end": 578578,
+      "start": 577696,
+      "strand": -1
+    },
+    "jhp0533": {
+      "end": 579905,
+      "start": 579668,
+      "strand": -1
+    },
+    "jhp0534": {
+      "end": 582838,
+      "start": 579901,
+      "strand": -1
+    },
+    "jhp0540": {
+      "end": 588664,
+      "start": 586888,
+      "strand": 1
+    },
+    "jhp0541": {
+      "end": 588987,
+      "start": 588822,
+      "strand": 1
+    },
+    "jhp0542": {
+      "end": 590469,
+      "start": 588996,
+      "strand": 1
+    },
+    "jhp0543": {
+      "end": 591516,
+      "start": 590937,
+      "strand": 1
+    },
+    "jhp0550": {
+      "end": 600874,
+      "start": 600256,
+      "strand": 1
+    },
+    "jhp0555": {
+      "end": 607785,
+      "start": 607215,
+      "strand": 1
+    },
+    "jhp0556": {
+      "end": 617532,
+      "start": 607947,
+      "strand": 1
+    },
+    "jhp0557": {
+      "end": 618682,
+      "start": 618349,
+      "strand": -1
+    },
+    "jhp0562": {
+      "end": 625221,
+      "start": 624222,
+      "strand": 1
+    },
+    "jhp0563": {
+      "end": 626575,
+      "start": 625239,
+      "strand": 1
+    },
+    "jhp0566": {
+      "end": 629912,
+      "start": 629549,
+      "strand": -1
+    },
+    "jhp0572": {
+      "end": 638155,
+      "start": 636103,
+      "strand": 1
+    },
+    "jhp0578": {
+      "end": 644603,
+      "start": 643064,
+      "strand": 1
+    },
+    "jhp0579": {
+      "end": 645021,
+      "start": 644607,
+      "strand": -1
+    },
+    "jhp0580": {
+      "end": 645592,
+      "start": 645139,
+      "strand": -1
+    },
+    "jhp0584": {
+      "end": 649406,
+      "start": 648902,
+      "strand": 1
+    },
+    "jhp0585": {
+      "end": 650278,
+      "start": 649420,
+      "strand": 1
+    },
+    "jhp0586": {
+      "end": 650933,
+      "start": 650279,
+      "strand": 1
+    },
+    "jhp0587": {
+      "end": 651229,
+      "start": 650989,
+      "strand": -1
+    },
+    "jhp0589": {
+      "end": 652867,
+      "start": 652573,
+      "strand": 1
+    },
+    "jhp0592": {
+      "end": 655795,
+      "start": 655387,
+      "strand": 1
+    },
+    "jhp0595": {
+      "end": 659165,
+      "start": 658535,
+      "strand": 1
+    },
+    "jhp0599": {
+      "end": 663098,
+      "start": 662015,
+      "strand": 1
+    },
+    "jhp0601": {
+      "end": 666964,
+      "start": 665902,
+      "strand": 1
+    },
+    "jhp0602": {
+      "end": 668277,
+      "start": 666969,
+      "strand": 1
+    },
+    "jhp0604": {
+      "end": 670942,
+      "start": 669700,
+      "strand": 1
+    },
+    "jhp0605": {
+      "end": 671959,
+      "start": 670951,
+      "strand": 1
+    },
+    "jhp0609": {
+      "end": 674769,
+      "start": 674253,
+      "strand": 1
+    },
+    "jhp0613": {
+      "end": 682375,
+      "start": 678871,
+      "strand": 1
+    },
+    "jhp0616": {
+      "end": 685726,
+      "start": 684934,
+      "strand": 1
+    },
+    "jhp0619": {
+      "end": 688148,
+      "start": 687380,
+      "strand": -1
+    },
+    "jhp0622": {
+      "end": 692326,
+      "start": 691819,
+      "strand": -1
+    },
+    "jhp0623": {
+      "end": 692716,
+      "start": 692365,
+      "strand": -1
+    },
+    "jhp0628": {
+      "end": 700534,
+      "start": 699703,
+      "strand": 1
+    },
+    "jhp0629": {
+      "end": 701801,
+      "start": 700586,
+      "strand": 1
+    },
+    "jhp0630": {
+      "end": 702676,
+      "start": 701803,
+      "strand": 1
+    },
+    "jhp0631": {
+      "end": 703354,
+      "start": 702853,
+      "strand": -1
+    },
+    "jhp0632": {
+      "end": 705675,
+      "start": 703377,
+      "strand": -1
+    },
+    "jhp0634": {
+      "end": 709066,
+      "start": 708055,
+      "strand": -1
+    },
+    "jhp0639": {
+      "end": 714376,
+      "start": 713347,
+      "strand": 1
+    },
+    "jhp0642": {
+      "end": 717730,
+      "start": 717256,
+      "strand": 1
+    },
+    "jhp0643": {
+      "end": 718872,
+      "start": 717726,
+      "strand": 1
+    },
+    "jhp0646": {
+      "end": 724454,
+      "start": 723527,
+      "strand": 1
+    },
+    "jhp0647": {
+      "end": 724819,
+      "start": 724474,
+      "strand": 1
+    },
+    "jhp0648": {
+      "end": 726194,
+      "start": 725291,
+      "strand": 1
+    },
+    "jhp0650": {
+      "end": 729811,
+      "start": 728590,
+      "strand": 1
+    },
+    "jhp0651": {
+      "end": 730515,
+      "start": 729810,
+      "strand": 1
+    },
+    "jhp0653": {
+      "end": 732496,
+      "start": 731773,
+      "strand": -1
+    },
+    "jhp0654": {
+      "end": 732910,
+      "start": 732508,
+      "strand": -1
+    },
+    "jhp0656": {
+      "end": 735354,
+      "start": 734721,
+      "strand": -1
+    },
+    "jhp0657": {
+      "end": 736044,
+      "start": 735621,
+      "strand": 1
+    },
+    "jhp0658": {
+      "end": 736530,
+      "start": 736071,
+      "strand": 1
+    },
+    "jhp0663": {
+      "end": 744519,
+      "start": 743601,
+      "strand": -1
+    },
+    "jhp0664": {
+      "end": 745475,
+      "start": 744488,
+      "strand": -1
+    },
+    "jhp0665": {
+      "end": 746585,
+      "start": 745568,
+      "strand": -1
+    },
+    "jhp0666": {
+      "end": 747688,
+      "start": 746620,
+      "strand": -1
+    },
+    "jhp0667": {
+      "end": 748002,
+      "start": 747696,
+      "strand": -1
+    },
+    "jhp0669": {
+      "end": 750932,
+      "start": 749816,
+      "strand": -1
+    },
+    "jhp0670": {
+      "end": 751567,
+      "start": 750988,
+      "strand": -1
+    },
+    "jhp0671": {
+      "end": 752989,
+      "start": 751669,
+      "strand": -1
+    },
+    "jhp0676": {
+      "end": 757039,
+      "start": 756313,
+      "strand": 1
+    },
+    "jhp0678": {
+      "end": 759002,
+      "start": 758516,
+      "strand": 1
+    },
+    "jhp0681": {
+      "end": 762454,
+      "start": 761241,
+      "strand": -1
+    },
+    "jhp0683": {
+      "end": 764781,
+      "start": 763521,
+      "strand": 1
+    },
+    "jhp0684": {
+      "end": 765994,
+      "start": 764791,
+      "strand": 1
+    },
+    "jhp0687": {
+      "end": 768628,
+      "start": 767425,
+      "strand": 1
+    },
+    "jhp0691": {
+      "end": 771806,
+      "start": 771566,
+      "strand": 1
+    },
+    "jhp0693": {
+      "end": 772678,
+      "start": 772531,
+      "strand": 1
+    },
+    "jhp0694": {
+      "end": 773560,
+      "start": 772681,
+      "strand": 1
+    },
+    "jhp0695": {
+      "end": 775000,
+      "start": 773686,
+      "strand": 1
+    },
+    "jhp0696": {
+      "end": 776316,
+      "start": 775062,
+      "strand": 1
+    },
+    "jhp0697": {
+      "end": 777906,
+      "start": 776316,
+      "strand": -1
+    },
+    "jhp0698": {
+      "end": 778408,
+      "start": 777805,
+      "strand": -1
+    },
+    "jhp0699": {
+      "end": 779129,
+      "start": 778571,
+      "strand": 1
+    },
+    "jhp0701": {
+      "end": 780656,
+      "start": 780302,
+      "strand": -1
+    },
+    "jhp0702": {
+      "end": 781190,
+      "start": 780683,
+      "strand": -1
+    },
+    "jhp0703": {
+      "end": 782001,
+      "start": 781140,
+      "strand": -1
+    },
+    "jhp0704": {
+      "end": 782561,
+      "start": 782012,
+      "strand": -1
+    },
+    "jhp0708": {
+      "end": 786483,
+      "start": 785745,
+      "strand": -1
+    },
+    "jhp0710": {
+      "end": 789009,
+      "start": 787917,
+      "strand": -1
+    },
+    "jhp0715": {
+      "end": 794333,
+      "start": 793649,
+      "strand": -1
+    },
+    "jhp0717": {
+      "end": 797369,
+      "start": 797102,
+      "strand": 1
+    },
+    "jhp0718": {
+      "end": 798953,
+      "start": 797663,
+      "strand": 1
+    },
+    "jhp0720": {
+      "end": 800948,
+      "start": 800420,
+      "strand": -1
+    },
+    "jhp0721": {
+      "end": 801418,
+      "start": 801286,
+      "strand": 1
+    },
+    "jhp0739": {
+      "end": 820569,
+      "start": 819729,
+      "strand": -1
+    },
+    "jhp0742": {
+      "end": 823335,
+      "start": 822714,
+      "strand": 1
+    },
+    "jhp0746": {
+      "end": 827450,
+      "start": 826847,
+      "strand": -1
+    },
+    "jhp0747": {
+      "end": 827755,
+      "start": 827428,
+      "strand": -1
+    },
+    "jhp0748": {
+      "end": 829219,
+      "start": 828208,
+      "strand": -1
+    },
+    "jhp0749": {
+      "end": 829969,
+      "start": 829351,
+      "strand": 1
+    },
+    "jhp0753": {
+      "end": 832745,
+      "start": 832298,
+      "strand": 1
+    },
+    "jhp0755": {
+      "end": 833793,
+      "start": 833220,
+      "strand": -1
+    },
+    "jhp0756": {
+      "end": 834605,
+      "start": 833786,
+      "strand": -1
+    },
+    "jhp0757": {
+      "end": 836562,
+      "start": 834900,
+      "strand": 1
+    },
+    "jhp0759": {
+      "end": 837851,
+      "start": 837389,
+      "strand": 1
+    },
+    "jhp0762": {
+      "end": 841256,
+      "start": 840911,
+      "strand": 1
+    },
+    "jhp0766": {
+      "end": 844255,
+      "start": 844006,
+      "strand": -1
+    },
+    "jhp0772": {
+      "end": 850623,
+      "start": 849732,
+      "strand": -1
+    },
+    "jhp0775": {
+      "end": 853798,
+      "start": 853192,
+      "strand": 1
+    },
+    "jhp0776": {
+      "end": 854435,
+      "start": 853817,
+      "strand": 1
+    },
+    "jhp0780": {
+      "end": 859211,
+      "start": 858473,
+      "strand": 1
+    },
+    "jhp0787": {
+      "end": 867913,
+      "start": 867226,
+      "strand": 1
+    },
+    "jhp0788": {
+      "end": 868897,
+      "start": 867955,
+      "strand": -1
+    },
+    "jhp0794": {
+      "end": 875180,
+      "start": 874655,
+      "strand": -1
+    },
+    "jhp0795": {
+      "end": 875904,
+      "start": 875166,
+      "strand": -1
+    },
+    "jhp0796": {
+      "end": 876566,
+      "start": 875894,
+      "strand": -1
+    },
+    "jhp0797": {
+      "end": 878196,
+      "start": 876570,
+      "strand": -1
+    },
+    "jhp0798": {
+      "end": 878857,
+      "start": 878200,
+      "strand": -1
+    },
+    "jhp0802": {
+      "end": 881359,
+      "start": 880897,
+      "strand": -1
+    },
+    "jhp0807": {
+      "end": 885756,
+      "start": 885540,
+      "strand": -1
+    },
+    "jhp0812": {
+      "end": 892420,
+      "start": 891688,
+      "strand": 1
+    },
+    "jhp0813": {
+      "end": 893966,
+      "start": 893498,
+      "strand": -1
+    },
+    "jhp0814": {
+      "end": 894228,
+      "start": 893874,
+      "strand": -1
+    },
+    "jhp0816": {
+      "end": 896773,
+      "start": 894928,
+      "strand": -1
+    },
+    "jhp0820": {
+      "end": 905115,
+      "start": 903993,
+      "strand": -1
+    },
+    "jhp0825": {
+      "end": 908817,
+      "start": 908514,
+      "strand": -1
+    },
+    "jhp0828": {
+      "end": 910844,
+      "start": 910637,
+      "strand": -1
+    },
+    "jhp0830": {
+      "end": 911673,
+      "start": 911421,
+      "strand": -1
+    },
+    "jhp0831": {
+      "end": 911993,
+      "start": 911720,
+      "strand": -1
+    },
+    "jhp0832": {
+      "end": 912294,
+      "start": 912006,
+      "strand": -1
+    },
+    "jhp0834": {
+      "end": 916431,
+      "start": 916020,
+      "strand": -1
+    },
+    "jhp0838": {
+      "end": 918730,
+      "start": 918601,
+      "strand": -1
+    },
+    "jhp0839": {
+      "end": 919040,
+      "start": 918740,
+      "strand": -1
+    },
+    "jhp0842": {
+      "end": 923577,
+      "start": 922002,
+      "strand": 1
+    },
+    "jhp0845": {
+      "end": 927166,
+      "start": 926584,
+      "strand": 1
+    },
+    "jhp0852": {
+      "end": 940412,
+      "start": 939980,
+      "strand": -1
+    },
+    "jhp0854": {
+      "end": 944466,
+      "start": 943773,
+      "strand": -1
+    },
+    "jhp0856": {
+      "end": 952890,
+      "start": 945690,
+      "strand": 1
+    },
+    "jhp0860": {
+      "end": 956211,
+      "start": 955065,
+      "strand": 1
+    },
+    "jhp0862": {
+      "end": 957343,
+      "start": 957130,
+      "strand": 1
+    },
+    "jhp0863": {
+      "end": 958140,
+      "start": 957597,
+      "strand": 1
+    },
+    "jhp0866": {
+      "end": 960523,
+      "start": 959863,
+      "strand": 1
+    },
+    "jhp0867": {
+      "end": 961127,
+      "start": 960524,
+      "strand": 1
+    },
+    "jhp0868": {
+      "end": 961879,
+      "start": 961123,
+      "strand": 1
+    },
+    "jhp0869": {
+      "end": 962456,
+      "start": 961970,
+      "strand": 1
+    },
+    "jhp0870": {
+      "end": 964688,
+      "start": 962681,
+      "strand": 1
+    },
+    "jhp0872": {
+      "end": 967591,
+      "start": 966766,
+      "strand": -1
+    },
+    "jhp0873": {
+      "end": 968473,
+      "start": 967597,
+      "strand": -1
+    },
+    "jhp0880": {
+      "end": 976635,
+      "start": 975153,
+      "strand": 1
+    },
+    "jhp0881": {
+      "end": 977322,
+      "start": 976959,
+      "strand": 1
+    },
+    "jhp0882": {
+      "end": 978747,
+      "start": 977733,
+      "strand": -1
+    },
+    "jhp0883": {
+      "end": 979209,
+      "start": 978756,
+      "strand": -1
+    },
+    "jhp0886": {
+      "end": 981454,
+      "start": 980797,
+      "strand": 1
+    },
+    "jhp0887": {
+      "end": 982023,
+      "start": 981456,
+      "strand": -1
+    },
+    "jhp0888": {
+      "end": 982720,
+      "start": 982087,
+      "strand": -1
+    },
+    "jhp0892": {
+      "end": 986311,
+      "start": 985507,
+      "strand": -1
+    },
+    "jhp0893": {
+      "end": 987052,
+      "start": 986320,
+      "strand": -1
+    },
+    "jhp0896": {
+      "end": 989871,
+      "start": 989178,
+      "strand": -1
+    },
+    "jhp0897": {
+      "end": 990907,
+      "start": 990226,
+      "strand": -1
+    },
+    "jhp0898": {
+      "end": 991638,
+      "start": 990903,
+      "strand": -1
+    },
+    "jhp0899": {
+      "end": 993206,
+      "start": 991703,
+      "strand": -1
+    },
+    "jhp0900": {
+      "end": 994228,
+      "start": 993205,
+      "strand": -1
+    },
+    "jhp0901": {
+      "end": 994788,
+      "start": 994287,
+      "strand": -1
+    },
+    "jhp0902": {
+      "end": 995443,
+      "start": 995161,
+      "strand": -1
+    },
+    "jhp0905": {
+      "end": 1000889,
+      "start": 999593,
+      "strand": -1
+    },
+    "jhp0907": {
+      "end": 1004189,
+      "start": 1003100,
+      "strand": 1
+    },
+    "jhp0914": {
+      "end": 1013325,
+      "start": 1012089,
+      "strand": -1
+    },
+    "jhp0915": {
+      "end": 1014496,
+      "start": 1013671,
+      "strand": -1
+    },
+    "jhp0916": {
+      "end": 1014830,
+      "start": 1014635,
+      "strand": -1
+    },
+    "jhp0920": {
+      "end": 1018849,
+      "start": 1018567,
+      "strand": 1
+    },
+    "jhp0921": {
+      "end": 1019965,
+      "start": 1018978,
+      "strand": 1
+    },
+    "jhp0922": {
+      "end": 1020486,
+      "start": 1019964,
+      "strand": 1
+    },
+    "jhp0923": {
+      "end": 1021501,
+      "start": 1020604,
+      "strand": 1
+    },
+    "jhp0924": {
+      "end": 1022304,
+      "start": 1021497,
+      "strand": 1
+    },
+    "jhp0925": {
+      "end": 1022549,
+      "start": 1021961,
+      "strand": -1
+    },
+    "jhp0926": {
+      "end": 1023572,
+      "start": 1022555,
+      "strand": -1
+    },
+    "jhp0927": {
+      "end": 1025174,
+      "start": 1023776,
+      "strand": 1
+    },
+    "jhp0928": {
+      "end": 1032019,
+      "start": 1025323,
+      "strand": 1
+    },
+    "jhp0929": {
+      "end": 1032477,
+      "start": 1032024,
+      "strand": 1
+    },
+    "jhp0930": {
+      "end": 1032833,
+      "start": 1032590,
+      "strand": 1
+    },
+    "jhp0932": {
+      "end": 1035431,
+      "start": 1034960,
+      "strand": 1
+    },
+    "jhp0933": {
+      "end": 1036204,
+      "start": 1035400,
+      "strand": 1
+    },
+    "jhp0934": {
+      "end": 1037296,
+      "start": 1036276,
+      "strand": -1
+    },
+    "jhp0935": {
+      "end": 1037885,
+      "start": 1037342,
+      "strand": -1
+    },
+    "jhp0936": {
+      "end": 1038616,
+      "start": 1038082,
+      "strand": 1
+    },
+    "jhp0937": {
+      "end": 1039878,
+      "start": 1038612,
+      "strand": 1
+    },
+    "jhp0938": {
+      "end": 1041140,
+      "start": 1039889,
+      "strand": 1
+    },
+    "jhp0939": {
+      "end": 1042158,
+      "start": 1041144,
+      "strand": -1
+    },
+    "jhp0940": {
+      "end": 1043367,
+      "start": 1042389,
+      "strand": 1
+    },
+    "jhp0943": {
+      "end": 1048561,
+      "start": 1048375,
+      "strand": -1
+    },
+    "jhp0944": {
+      "end": 1049874,
+      "start": 1049106,
+      "strand": 1
+    },
+    "jhp0945": {
+      "end": 1051880,
+      "start": 1049873,
+      "strand": 1
+    },
+    "jhp0946": {
+      "end": 1052110,
+      "start": 1051672,
+      "strand": 1
+    },
+    "jhp0947": {
+      "end": 1053537,
+      "start": 1052136,
+      "strand": 1
+    },
+    "jhp0948": {
+      "end": 1053866,
+      "start": 1053587,
+      "strand": 1
+    },
+    "jhp0949": {
+      "end": 1055130,
+      "start": 1053867,
+      "strand": 1
+    },
+    "jhp0950": {
+      "end": 1055885,
+      "start": 1055201,
+      "strand": 1
+    },
+    "jhp0951": {
+      "end": 1057038,
+      "start": 1055964,
+      "strand": -1
+    },
+    "jhp0952": {
+      "end": 1061266,
+      "start": 1061074,
+      "strand": 1
+    },
+    "jhp0953": {
+      "end": 1061498,
+      "start": 1061273,
+      "strand": -1
+    },
+    "jhp0954": {
+      "end": 1061982,
+      "start": 1061541,
+      "strand": 1
+    },
+    "jhp0955": {
+      "end": 1062689,
+      "start": 1062035,
+      "strand": 1
+    },
+    "jhp0956": {
+      "end": 1063283,
+      "start": 1062797,
+      "strand": 1
+    },
+    "jhp0957": {
+      "end": 1063873,
+      "start": 1063270,
+      "strand": 1
+    },
+    "jhp0958": {
+      "end": 1064176,
+      "start": 1064020,
+      "strand": 1
+    },
+    "jhp0959": {
+      "end": 1064918,
+      "start": 1064261,
+      "strand": 1
+    },
+    "jhp0960": {
+      "end": 1065281,
+      "start": 1065062,
+      "strand": 1
+    },
+    "jhp0961": {
+      "end": 1065468,
+      "start": 1065282,
+      "strand": 1
+    },
+    "jhp0963": {
+      "end": 1068572,
+      "start": 1067402,
+      "strand": -1
+    },
+    "jhp0964": {
+      "end": 1069005,
+      "start": 1068576,
+      "strand": -1
+    },
+    "jhp0965": {
+      "end": 1069807,
+      "start": 1069021,
+      "strand": -1
+    },
+    "jhp0966": {
+      "end": 1070818,
+      "start": 1069810,
+      "strand": -1
+    },
+    "jhp0969": {
+      "end": 1076008,
+      "start": 1074136,
+      "strand": -1
+    },
+    "jhp0970": {
+      "end": 1076671,
+      "start": 1076572,
+      "strand": -1
+    },
+    "jhp0973": {
+      "end": 1080186,
+      "start": 1079691,
+      "strand": -1
+    },
+    "jhp0975": {
+      "end": 1083450,
+      "start": 1082859,
+      "strand": -1
+    },
+    "jhp0976": {
+      "end": 1084798,
+      "start": 1083475,
+      "strand": -1
+    },
+    "jhp0977": {
+      "end": 1085131,
+      "start": 1084816,
+      "strand": -1
+    },
+    "jhp0983": {
+      "end": 1092937,
+      "start": 1092424,
+      "strand": 1
+    },
+    "jhp0986": {
+      "end": 1097078,
+      "start": 1096409,
+      "strand": 1
+    },
+    "jhp0987": {
+      "end": 1097838,
+      "start": 1097079,
+      "strand": 1
+    },
+    "jhp0993": {
+      "end": 1104184,
+      "start": 1103452,
+      "strand": 1
+    },
+    "jhp0995": {
+      "end": 1106298,
+      "start": 1106061,
+      "strand": -1
+    },
+    "jhp0996": {
+      "end": 1106538,
+      "start": 1106310,
+      "strand": -1
+    },
+    "jhp0997": {
+      "end": 1107485,
+      "start": 1106738,
+      "strand": 1
+    },
+    "jhp0998": {
+      "end": 1108285,
+      "start": 1107760,
+      "strand": -1
+    },
+    "jhp1002": {
+      "end": 1113251,
+      "start": 1111941,
+      "strand": -1
+    },
+    "jhp1006": {
+      "end": 1118320,
+      "start": 1117888,
+      "strand": 1
+    },
+    "jhp1007": {
+      "end": 1119001,
+      "start": 1118320,
+      "strand": 1
+    },
+    "jhp1012": {
+      "end": 1125118,
+      "start": 1124155,
+      "strand": 1
+    },
+    "jhp1013": {
+      "end": 1125666,
+      "start": 1125117,
+      "strand": 1
+    },
+    "jhp1014": {
+      "end": 1126365,
+      "start": 1125759,
+      "strand": 1
+    },
+    "jhp1018": {
+      "end": 1130527,
+      "start": 1129489,
+      "strand": 1
+    },
+    "jhp1021": {
+      "end": 1132570,
+      "start": 1132504,
+      "strand": -1
+    },
+    "jhp1022": {
+      "end": 1134735,
+      "start": 1133199,
+      "strand": 1
+    },
+    "jhp1023": {
+      "end": 1135505,
+      "start": 1134752,
+      "strand": 1
+    },
+    "jhp1031": {
+      "end": 1144569,
+      "start": 1143387,
+      "strand": -1
+    },
+    "jhp1032": {
+      "end": 1145905,
+      "start": 1144708,
+      "strand": -1
+    },
+    "jhp1033": {
+      "end": 1147387,
+      "start": 1146079,
+      "strand": 1
+    },
+    "jhp1042": {
+      "end": 1156912,
+      "start": 1156108,
+      "strand": -1
+    },
+    "jhp1043": {
+      "end": 1157292,
+      "start": 1156908,
+      "strand": -1
+    },
+    "jhp1044": {
+      "end": 1160900,
+      "start": 1157435,
+      "strand": -1
+    },
+    "jhp1048": {
+      "end": 1166480,
+      "start": 1166045,
+      "strand": -1
+    },
+    "jhp1049": {
+      "end": 1167311,
+      "start": 1166558,
+      "strand": -1
+    },
+    "jhp1053": {
+      "end": 1170464,
+      "start": 1169468,
+      "strand": -1
+    },
+    "jhp1056": {
+      "end": 1173119,
+      "start": 1172327,
+      "strand": -1
+    },
+    "jhp1066": {
+      "end": 1180914,
+      "start": 1180041,
+      "strand": -1
+    },
+    "jhp1070": {
+      "end": 1185569,
+      "start": 1183289,
+      "strand": -1
+    },
+    "jhp1071": {
+      "end": 1186905,
+      "start": 1185603,
+      "strand": -1
+    },
+    "jhp1072": {
+      "end": 1187408,
+      "start": 1187114,
+      "strand": 1
+    },
+    "jhp1073": {
+      "end": 1191123,
+      "start": 1190265,
+      "strand": -1
+    },
+    "jhp1076": {
+      "end": 1193589,
+      "start": 1193043,
+      "strand": -1
+    },
+    "jhp1077": {
+      "end": 1193952,
+      "start": 1193598,
+      "strand": -1
+    },
+    "jhp1081": {
+      "end": 1198797,
+      "start": 1198389,
+      "strand": 1
+    },
+    "jhp1087": {
+      "end": 1207660,
+      "start": 1207234,
+      "strand": -1
+    },
+    "jhp1089": {
+      "end": 1208882,
+      "start": 1208300,
+      "strand": -1
+    },
+    "jhp1092": {
+      "end": 1211366,
+      "start": 1210205,
+      "strand": -1
+    },
+    "jhp1100": {
+      "end": 1221152,
+      "start": 1220594,
+      "strand": 1
+    },
+    "jhp1102": {
+      "end": 1224082,
+      "start": 1222774,
+      "strand": -1
+    },
+    "jhp1107": {
+      "end": 1231786,
+      "start": 1230454,
+      "strand": 1
+    },
+    "jhp1108": {
+      "end": 1232563,
+      "start": 1231801,
+      "strand": 1
+    },
+    "jhp1110": {
+      "end": 1235124,
+      "start": 1233744,
+      "strand": -1
+    },
+    "jhp1112": {
+      "end": 1237484,
+      "start": 1236740,
+      "strand": 1
+    },
+    "jhp1113": {
+      "end": 1238866,
+      "start": 1237714,
+      "strand": -1
+    },
+    "jhp1117": {
+      "end": 1243115,
+      "start": 1242950,
+      "strand": -1
+    },
+    "jhp1130": {
+      "end": 1263339,
+      "start": 1262670,
+      "strand": -1
+    },
+    "jhp1132": {
+      "end": 1265024,
+      "start": 1264844,
+      "strand": -1
+    },
+    "jhp1134": {
+      "end": 1266163,
+      "start": 1266067,
+      "strand": 1
+    },
+    "jhp1137": {
+      "end": 1269588,
+      "start": 1268883,
+      "strand": -1
+    },
+    "jhp1139": {
+      "end": 1272344,
+      "start": 1271864,
+      "strand": -1
+    },
+    "jhp1144": {
+      "end": 1278655,
+      "start": 1278316,
+      "strand": 1
+    },
+    "jhp1148": {
+      "end": 1281252,
+      "start": 1280961,
+      "strand": 1
+    },
+    "jhp1151": {
+      "end": 1283636,
+      "start": 1283093,
+      "strand": 1
+    },
+    "jhp1154": {
+      "end": 1285984,
+      "start": 1285522,
+      "strand": -1
+    },
+    "jhp1155": {
+      "end": 1287231,
+      "start": 1286334,
+      "strand": 1
+    },
+    "jhp1156": {
+      "end": 1288482,
+      "start": 1287234,
+      "strand": 1
+    },
+    "jhp1157": {
+      "end": 1289112,
+      "start": 1288560,
+      "strand": 1
+    },
+    "jhp1160": {
+      "end": 1292305,
+      "start": 1291894,
+      "strand": -1
+    },
+    "jhp1163": {
+      "end": 1295949,
+      "start": 1295718,
+      "strand": 1
+    },
+    "jhp1179": {
+      "end": 1312085,
+      "start": 1311626,
+      "strand": 1
+    },
+    "jhp1180": {
+      "end": 1312786,
+      "start": 1312081,
+      "strand": 1
+    },
+    "jhp1197": {
+      "end": 1331229,
+      "start": 1330857,
+      "strand": 1
+    },
+    "jhp1204": {
+      "end": 1339099,
+      "start": 1338040,
+      "strand": -1
+    },
+    "jhp1206": {
+      "end": 1340575,
+      "start": 1340026,
+      "strand": 1
+    },
+    "jhp1208": {
+      "end": 1342356,
+      "start": 1342002,
+      "strand": 1
+    },
+    "jhp1209": {
+      "end": 1342865,
+      "start": 1342379,
+      "strand": 1
+    },
+    "jhp1211": {
+      "end": 1344315,
+      "start": 1343700,
+      "strand": 1
+    },
+    "jhp1241": {
+      "end": 1360227,
+      "start": 1359096,
+      "strand": 1
+    },
+    "jhp1242": {
+      "end": 1361070,
+      "start": 1360491,
+      "strand": 1
+    },
+    "jhp1244": {
+      "end": 1361883,
+      "start": 1361688,
+      "strand": -1
+    },
+    "jhp1246": {
+      "end": 1363907,
+      "start": 1363529,
+      "strand": 1
+    },
+    "jhp1247": {
+      "end": 1365150,
+      "start": 1363911,
+      "strand": 1
+    },
+    "jhp1253": {
+      "end": 1372672,
+      "start": 1371541,
+      "strand": 1
+    },
+    "jhp1255": {
+      "end": 1374643,
+      "start": 1373881,
+      "strand": 1
+    },
+    "jhp1262": {
+      "end": 1380669,
+      "start": 1379940,
+      "strand": -1
+    },
+    "jhp1268": {
+      "end": 1386513,
+      "start": 1385349,
+      "strand": -1
+    },
+    "jhp1272": {
+      "end": 1393681,
+      "start": 1390188,
+      "strand": -1
+    },
+    "jhp1276": {
+      "end": 1396916,
+      "start": 1396409,
+      "strand": -1
+    },
+    "jhp1277": {
+      "end": 1397480,
+      "start": 1396928,
+      "strand": -1
+    },
+    "jhp1281": {
+      "end": 1402504,
+      "start": 1401109,
+      "strand": -1
+    },
+    "jhp1282": {
+      "end": 1403541,
+      "start": 1402506,
+      "strand": -1
+    },
+    "jhp1283": {
+      "end": 1404316,
+      "start": 1403674,
+      "strand": -1
+    },
+    "jhp1284": {
+      "end": 1406374,
+      "start": 1404424,
+      "strand": 1
+    },
+    "jhp1285": {
+      "end": 1409302,
+      "start": 1406383,
+      "strand": 1
+    },
+    "jhp1291": {
+      "end": 1414423,
+      "start": 1414033,
+      "strand": -1
+    },
+    "jhp1295": {
+      "end": 1420176,
+      "start": 1419312,
+      "strand": -1
+    },
+    "jhp1300": {
+      "end": 1431449,
+      "start": 1430912,
+      "strand": 1
+    },
+    "jhp1301": {
+      "end": 1432338,
+      "start": 1431393,
+      "strand": 1
+    },
+    "jhp1302": {
+      "end": 1433125,
+      "start": 1432519,
+      "strand": 1
+    },
+    "jhp1303": {
+      "end": 1434403,
+      "start": 1433170,
+      "strand": 1
+    },
+    "jhp1304": {
+      "end": 1435400,
+      "start": 1434470,
+      "strand": 1
+    },
+    "jhp1305": {
+      "end": 1436318,
+      "start": 1435586,
+      "strand": 1
+    },
+    "jhp1306": {
+      "end": 1436607,
+      "start": 1436451,
+      "strand": 1
+    },
+    "jhp1307": {
+      "end": 1437364,
+      "start": 1436641,
+      "strand": 1
+    },
+    "jhp1308": {
+      "end": 1437940,
+      "start": 1437493,
+      "strand": -1
+    },
+    "jhp1309": {
+      "end": 1438340,
+      "start": 1437998,
+      "strand": 1
+    },
+    "jhp1312": {
+      "end": 1442024,
+      "start": 1440364,
+      "strand": 1
+    },
+    "jhp1318": {
+      "end": 1448417,
+      "start": 1448162,
+      "strand": -1
+    },
+    "jhp1319": {
+      "end": 1449139,
+      "start": 1448518,
+      "strand": 1
+    },
+    "jhp1323": {
+      "end": 1453258,
+      "start": 1451179,
+      "strand": 1
+    },
+    "jhp1325": {
+      "end": 1455301,
+      "start": 1454227,
+      "strand": 1
+    },
+    "jhp1326": {
+      "end": 1458462,
+      "start": 1456083,
+      "strand": -1
+    },
+    "jhp1329": {
+      "end": 1460664,
+      "start": 1460403,
+      "strand": 1
+    },
+    "jhp1330": {
+      "end": 1461434,
+      "start": 1460870,
+      "strand": 1
+    },
+    "jhp1331": {
+      "end": 1462055,
+      "start": 1461569,
+      "strand": 1
+    },
+    "jhp1332": {
+      "end": 1462490,
+      "start": 1462064,
+      "strand": 1
+    },
+    "jhp1333": {
+      "end": 1465822,
+      "start": 1465042,
+      "strand": -1
+    },
+    "jhp1342": {
+      "end": 1469800,
+      "start": 1469443,
+      "strand": 1
+    },
+    "jhp1343": {
+      "end": 1471455,
+      "start": 1469805,
+      "strand": 1
+    },
+    "jhp1344": {
+      "end": 1472245,
+      "start": 1471468,
+      "strand": 1
+    },
+    "jhp1346": {
+      "end": 1476026,
+      "start": 1473791,
+      "strand": 1
+    },
+    "jhp1347": {
+      "end": 1477533,
+      "start": 1476621,
+      "strand": -1
+    },
+    "jhp1348": {
+      "end": 1477884,
+      "start": 1477542,
+      "strand": -1
+    },
+    "jhp1350": {
+      "end": 1479075,
+      "start": 1478442,
+      "strand": -1
+    },
+    "jhp1354": {
+      "end": 1485410,
+      "start": 1484357,
+      "strand": 1
+    },
+    "jhp1355": {
+      "end": 1486292,
+      "start": 1485704,
+      "strand": -1
+    },
+    "jhp1356": {
+      "end": 1486988,
+      "start": 1486310,
+      "strand": -1
+    },
+    "jhp1357": {
+      "end": 1487806,
+      "start": 1486990,
+      "strand": -1
+    },
+    "jhp1359": {
+      "end": 1489709,
+      "start": 1488575,
+      "strand": -1
+    },
+    "jhp1360": {
+      "end": 1490538,
+      "start": 1489842,
+      "strand": 1
+    },
+    "jhp1366": {
+      "end": 1499093,
+      "start": 1498517,
+      "strand": -1
+    },
+    "jhp1370": {
+      "end": 1501362,
+      "start": 1500705,
+      "strand": -1
+    },
+    "jhp1372": {
+      "end": 1505929,
+      "start": 1503403,
+      "strand": -1
+    },
+    "jhp1374": {
+      "end": 1507984,
+      "start": 1507186,
+      "strand": -1
+    },
+    "jhp1375": {
+      "end": 1508248,
+      "start": 1507987,
+      "strand": -1
+    },
+    "jhp1377": {
+      "end": 1509453,
+      "start": 1509006,
+      "strand": -1
+    },
+    "jhp1378": {
+      "end": 1510035,
+      "start": 1509462,
+      "strand": -1
+    },
+    "jhp1379": {
+      "end": 1511152,
+      "start": 1510021,
+      "strand": -1
+    },
+    "jhp1380": {
+      "end": 1512246,
+      "start": 1511148,
+      "strand": -1
+    },
+    "jhp1381": {
+      "end": 1513247,
+      "start": 1512257,
+      "strand": -1
+    },
+    "jhp1382": {
+      "end": 1514791,
+      "start": 1513258,
+      "strand": -1
+    },
+    "jhp1384": {
+      "end": 1517844,
+      "start": 1516242,
+      "strand": -1
+    },
+    "jhp1385": {
+      "end": 1518254,
+      "start": 1517984,
+      "strand": 1
+    },
+    "jhp1386": {
+      "end": 1518878,
+      "start": 1518266,
+      "strand": 1
+    },
+    "jhp1391": {
+      "end": 1523416,
+      "start": 1522348,
+      "strand": 1
+    },
+    "jhp1392": {
+      "end": 1524457,
+      "start": 1523536,
+      "strand": 1
+    },
+    "jhp1393": {
+      "end": 1524704,
+      "start": 1524623,
+      "strand": 1
+    },
+    "jhp1395": {
+      "end": 1526550,
+      "start": 1526112,
+      "strand": 1
+    },
+    "jhp1397": {
+      "end": 1529639,
+      "start": 1528922,
+      "strand": -1
+    },
+    "jhp1400": {
+      "end": 1533170,
+      "start": 1531970,
+      "strand": 1
+    },
+    "jhp1401": {
+      "end": 1534556,
+      "start": 1533179,
+      "strand": -1
+    },
+    "jhp1402": {
+      "end": 1535324,
+      "start": 1534661,
+      "strand": 1
+    },
+    "jhp1404": {
+      "end": 1535984,
+      "start": 1535657,
+      "strand": 1
+    },
+    "jhp1408": {
+      "end": 1542213,
+      "start": 1541529,
+      "strand": 1
+    },
+    "jhp1409": {
+      "end": 1547254,
+      "start": 1543495,
+      "strand": -1
+    },
+    "jhp1413": {
+      "end": 1554561,
+      "start": 1554213,
+      "strand": 1
+    },
+    "jhp1414": {
+      "end": 1555200,
+      "start": 1554564,
+      "strand": 1
+    },
+    "jhp1419": {
+      "end": 1560141,
+      "start": 1559901,
+      "strand": 1
+    },
+    "jhp1421": {
+      "end": 1562585,
+      "start": 1561958,
+      "strand": 1
+    },
+    "jhp1425": {
+      "end": 1570987,
+      "start": 1570279,
+      "strand": 1
+    },
+    "jhp1429": {
+      "end": 1577795,
+      "start": 1576697,
+      "strand": 1
+    },
+    "jhp1430": {
+      "end": 1578776,
+      "start": 1577927,
+      "strand": 1
+    },
+    "jhp1431": {
+      "end": 1579690,
+      "start": 1578808,
+      "strand": 1
+    },
+    "jhp1435": {
+      "end": 1584384,
+      "start": 1583076,
+      "strand": 1
+    },
+    "jhp1436": {
+      "end": 1584699,
+      "start": 1584402,
+      "strand": 1
+    },
+    "jhp1441": {
+      "end": 1588302,
+      "start": 1588098,
+      "strand": 1
+    },
+    "jhp1443": {
+      "end": 1590078,
+      "start": 1589436,
+      "strand": 1
+    },
+    "jhp1448": {
+      "end": 1596888,
+      "start": 1596594,
+      "strand": 1
+    },
+    "jhp1451": {
+      "end": 1599797,
+      "start": 1599458,
+      "strand": 1
+    },
+    "jhp1453": {
+      "end": 1602736,
+      "start": 1602223,
+      "strand": 1
+    },
+    "jhp1462": {
+      "end": 1612696,
+      "start": 1612165,
+      "strand": -1
+    },
+    "jhp1463": {
+      "end": 1613799,
+      "start": 1612695,
+      "strand": -1
+    },
+    "jhp1472": {
+      "end": 1622908,
+      "start": 1622092,
+      "strand": 1
+    },
+    "jhp1474": {
+      "end": 1625545,
+      "start": 1625101,
+      "strand": -1
+    },
+    "jhp1476": {
+      "end": 1626735,
+      "start": 1626177,
+      "strand": -1
+    },
+    "jhp1477": {
+      "end": 1627328,
+      "start": 1626734,
+      "strand": -1
+    },
+    "jhp1478": {
+      "end": 1627797,
+      "start": 1627302,
+      "strand": -1
+    },
+    "jhp1484": {
+      "end": 1632680,
+      "start": 1631696,
+      "strand": 1
+    },
+    "jhp1486": {
+      "end": 1633942,
+      "start": 1633519,
+      "strand": -1
+    },
+    "jhp1487": {
+      "end": 1634548,
+      "start": 1633951,
+      "strand": -1
+    },
+    "jhp1493": {
+      "end": 1641395,
+      "start": 1640765,
+      "strand": -1
+    },
+    "jhp1494": {
+      "end": 1642987,
+      "start": 1642225,
+      "strand": -1
+    },
+    "jhp1495": {
+      "end": 1643586,
+      "start": 1643352,
+      "strand": -1
+    },
+    "kapA": {
+      "end": 886719,
+      "start": 885840,
+      "strand": -1
+    },
+    "katA": {
+      "end": 888384,
+      "start": 886866,
+      "strand": -1
+    },
+    "kdsA": {
+      "end": 1779,
+      "start": 948,
+      "strand": -1
+    },
+    "kdsB": {
+      "end": 237918,
+      "start": 237186,
+      "strand": -1
+    },
+    "kdtA": {
+      "end": 985507,
+      "start": 984325,
+      "strand": -1
+    },
+    "kdtB": {
+      "end": 1500133,
+      "start": 1499659,
+      "strand": -1
+    },
+    "kefB": {
+      "end": 456993,
+      "start": 455742,
+      "strand": -1
+    },
+    "kgtP": {
+      "end": 362516,
+      "start": 361202,
+      "strand": -1
+    },
+    "kpsF": {
+      "end": 1454231,
+      "start": 1453241,
+      "strand": 1
+    },
+    "ksgA": {
+      "end": 1451129,
+      "start": 1450313,
+      "strand": 1
+    },
+    "lacA": {
+      "end": 569483,
+      "start": 569027,
+      "strand": -1
+    },
+    "lctP_2": {
+      "end": 146644,
+      "start": 144988,
+      "strand": 1
+    },
+    "leoA": {
+      "end": 749827,
+      "start": 748117,
+      "strand": -1
+    },
+    "lepA": {
+      "end": 359006,
+      "start": 357191,
+      "strand": 1
+    },
+    "lepB": {
+      "end": 571081,
+      "start": 570208,
+      "strand": -1
+    },
+    "leuS": {
+      "end": 1602227,
+      "start": 1599806,
+      "strand": 1
+    },
+    "lex2B_1": {
+      "end": 822666,
+      "start": 821787,
+      "strand": -1
+    },
+    "lex2B_2": {
+      "end": 843797,
+      "start": 842975,
+      "strand": 1
+    },
+    "lgt": {
+      "end": 983571,
+      "start": 982719,
+      "strand": -1
+    },
+    "lig": {
+      "end": 620825,
+      "start": 618854,
+      "strand": -1
+    },
+    "llaGI": {
+      "end": 678870,
+      "start": 677517,
+      "strand": 1
+    },
+    "lldP_1": {
+      "end": 144940,
+      "start": 143290,
+      "strand": 1
+    },
+    "llm": {
+      "end": 1635555,
+      "start": 1634547,
+      "strand": -1
+    },
+    "lolA": {
+      "end": 801987,
+      "start": 801432,
+      "strand": -1
+    },
+    "lolC": {
+      "end": 805953,
+      "start": 804720,
+      "strand": 1
+    },
+    "lon": {
+      "end": 1418026,
+      "start": 1415530,
+      "strand": 1
+    },
+    "lpp20": {
+      "end": 1478419,
+      "start": 1477891,
+      "strand": -1
+    },
+    "lpxA": {
+      "end": 1413370,
+      "start": 1412557,
+      "strand": -1
+    },
+    "lpxB": {
+      "end": 880898,
+      "start": 879815,
+      "strand": -1
+    },
+    "lpxD": {
+      "end": 199624,
+      "start": 198613,
+      "strand": 1
+    },
+    "lpxK": {
+      "end": 340258,
+      "start": 339319,
+      "strand": -1
+    },
+    "lspA": {
+      "end": 76305,
+      "start": 75813,
+      "strand": -1
+    },
+    "luxS": {
+      "end": 109439,
+      "start": 108980,
+      "strand": -1
+    },
+    "lysA": {
+      "end": 305186,
+      "start": 303968,
+      "strand": 1
+    },
+    "lysC": {
+      "end": 1283097,
+      "start": 1281879,
+      "strand": 1
+    },
+    "lysS": {
+      "end": 186251,
+      "start": 184745,
+      "strand": 1
+    },
+    "maf": {
+      "end": 1293054,
+      "start": 1292481,
+      "strand": -1
+    },
+    "magIII": {
+      "end": 600260,
+      "start": 599603,
+      "strand": 1
+    },
+    "map": {
+      "end": 1349081,
+      "start": 1348319,
+      "strand": -1
+    },
+    "mda66": {
+      "end": 638785,
+      "start": 638200,
+      "strand": -1
+    },
+    "metB": {
+      "end": 110619,
+      "start": 109476,
+      "strand": -1
+    },
+    "metL": {
+      "end": 840911,
+      "start": 839645,
+      "strand": 1
+    },
+    "metS": {
+      "end": 1072789,
+      "start": 1070818,
+      "strand": -1
+    },
+    "metX": {
+      "end": 200847,
+      "start": 199689,
+      "strand": 1
+    },
+    "mfd": {
+      "end": 1609107,
+      "start": 1606101,
+      "strand": 1
+    },
+    "miaA": {
+      "end": 1439244,
+      "start": 1438410,
+      "strand": 1
+    },
+    "minC": {
+      "end": 401063,
+      "start": 400478,
+      "strand": 1
+    },
+    "minD": {
+      "end": 343109,
+      "start": 342302,
+      "strand": 1
+    },
+    "minE": {
+      "end": 343339,
+      "start": 343105,
+      "strand": 1
+    },
+    "moaA": {
+      "end": 783891,
+      "start": 782925,
+      "strand": -1
+    },
+    "moaC": {
+      "end": 817802,
+      "start": 817325,
+      "strand": -1
+    },
+    "moaD": {
+      "end": 819013,
+      "start": 818791,
+      "strand": -1
+    },
+    "moaE": {
+      "end": 818791,
+      "start": 818353,
+      "strand": -1
+    },
+    "mobA": {
+      "end": 784606,
+      "start": 783976,
+      "strand": 1
+    },
+    "modA": {
+      "end": 458837,
+      "start": 458096,
+      "strand": 1
+    },
+    "modB": {
+      "end": 459533,
+      "start": 458858,
+      "strand": 1
+    },
+    "modD": {
+      "end": 460327,
+      "start": 459529,
+      "strand": 1
+    },
+    "mod_1": {
+      "end": 1422299,
+      "start": 1420436,
+      "strand": -1
+    },
+    "mod_2": {
+      "end": 1552214,
+      "start": 1550287,
+      "strand": -1
+    },
+    "mod_3": {
+      "end": 267432,
+      "start": 266259,
+      "strand": -1
+    },
+    "mod_4": {
+      "end": 1498486,
+      "start": 1496449,
+      "strand": -1
+    },
+    "moeA": {
+      "end": 173283,
+      "start": 172110,
+      "strand": -1
+    },
+    "moeB": {
+      "end": 772566,
+      "start": 771858,
+      "strand": 1
+    },
+    "mog": {
+      "end": 818341,
+      "start": 817810,
+      "strand": -1
+    },
+    "motA": {
+      "end": 831526,
+      "start": 830752,
+      "strand": 1
+    },
+    "motB": {
+      "end": 832302,
+      "start": 831528,
+      "strand": 1
+    },
+    "mpr": {
+      "end": 209710,
+      "start": 208603,
+      "strand": 1
+    },
+    "mqo": {
+      "end": 87681,
+      "start": 86328,
+      "strand": -1
+    },
+    "mraY": {
+      "end": 483090,
+      "start": 482028,
+      "strand": 1
+    },
+    "mreB": {
+      "end": 1411145,
+      "start": 1410101,
+      "strand": -1
+    },
+    "mreC": {
+      "end": 1410098,
+      "start": 1409351,
+      "strand": -1
+    },
+    "msbA": {
+      "end": 376200,
+      "start": 374544,
+      "strand": 1
+    },
+    "msr": {
+      "end": 230343,
+      "start": 229263,
+      "strand": 1
+    },
+    "mtn": {
+      "end": 92088,
+      "start": 91395,
+      "strand": -1
+    },
+    "mtrC": {
+      "end": 604120,
+      "start": 603415,
+      "strand": 1
+    },
+    "murA": {
+      "end": 657066,
+      "start": 655797,
+      "strand": 1
+    },
+    "murB": {
+      "end": 1442864,
+      "start": 1442084,
+      "strand": -1
+    },
+    "murC": {
+      "end": 631261,
+      "start": 629911,
+      "strand": -1
+    },
+    "murD": {
+      "end": 484360,
+      "start": 483091,
+      "strand": 1
+    },
+    "murE": {
+      "end": 1520225,
+      "start": 1518881,
+      "strand": 1
+    },
+    "murF": {
+      "end": 758507,
+      "start": 757025,
+      "strand": 1
+    },
+    "murG": {
+      "end": 1199870,
+      "start": 1198808,
+      "strand": 1
+    },
+    "murI": {
+      "end": 548694,
+      "start": 547926,
+      "strand": -1
+    },
+    "mutS": {
+      "end": 629589,
+      "start": 627300,
+      "strand": -1
+    },
+    "mutT": {
+      "end": 1281886,
+      "start": 1281412,
+      "strand": 1
+    },
+    "mutY": {
+      "end": 147654,
+      "start": 146667,
+      "strand": -1
+    },
+    "mviN": {
+      "end": 898326,
+      "start": 896943,
+      "strand": 1
+    },
+    "nadA": {
+      "end": 1395623,
+      "start": 1394612,
+      "strand": -1
+    },
+    "nadC": {
+      "end": 1394613,
+      "start": 1393791,
+      "strand": -1
+    },
+    "nadD": {
+      "end": 1375164,
+      "start": 1374639,
+      "strand": -1
+    },
+    "nadE": {
+      "end": 341037,
+      "start": 340254,
+      "strand": -1
+    },
+    "napA_1": {
+      "end": 249610,
+      "start": 249175,
+      "strand": -1
+    },
+    "napA_2": {
+      "end": 1233719,
+      "start": 1232567,
+      "strand": -1
+    },
+    "narK": {
+      "end": 327677,
+      "start": 326531,
+      "strand": -1
+    },
+    "nccB": {
+      "end": 999597,
+      "start": 998517,
+      "strand": -1
+    },
+    "ndk": {
+      "end": 201327,
+      "start": 200913,
+      "strand": 1
+    },
+    "nhaA": {
+      "end": 1596547,
+      "start": 1595230,
+      "strand": 1
+    },
+    "nifS": {
+      "end": 226289,
+      "start": 225125,
+      "strand": 1
+    },
+    "nikR": {
+      "end": 1375594,
+      "start": 1375147,
+      "strand": -1
+    },
+    "nixA": {
+      "end": 380410,
+      "start": 379414,
+      "strand": 1
+    },
+    "nrdA": {
+      "end": 691648,
+      "start": 689281,
+      "strand": -1
+    },
+    "nrdB": {
+      "end": 1128829,
+      "start": 1127803,
+      "strand": 1
+    },
+    "nshR": {
+      "end": 552108,
+      "start": 551424,
+      "strand": 1
+    },
+    "nspC": {
+      "end": 20703,
+      "start": 19485,
+      "strand": 1
+    },
+    "nth": {
+      "end": 579672,
+      "start": 579027,
+      "strand": -1
+    },
+    "nuc": {
+      "end": 1643831,
+      "start": 0,
+      "strand": 1
+    },
+    "nucT": {
+      "end": 335680,
+      "start": 335137,
+      "strand": 1
+    },
+    "nuoA": {
+      "end": 1313280,
+      "start": 1312878,
+      "strand": 1
+    },
+    "nuoB": {
+      "end": 1313759,
+      "start": 1313279,
+      "strand": 1
+    },
+    "nuoC": {
+      "end": 1314556,
+      "start": 1313758,
+      "strand": 1
+    },
+    "nuoD": {
+      "end": 1315787,
+      "start": 1314557,
+      "strand": 1
+    },
+    "nuoE": {
+      "end": 1316014,
+      "start": 1315783,
+      "strand": 1
+    },
+    "nuoF": {
+      "end": 1317003,
+      "start": 1316016,
+      "strand": 1
+    },
+    "nuoG": {
+      "end": 1319549,
+      "start": 1316999,
+      "strand": 1
+    },
+    "nuoH": {
+      "end": 1320535,
+      "start": 1319545,
+      "strand": 1
+    },
+    "nuoI": {
+      "end": 1321207,
+      "start": 1320544,
+      "strand": 1
+    },
+    "nuoJ": {
+      "end": 1321748,
+      "start": 1321199,
+      "strand": 1
+    },
+    "nuoK": {
+      "end": 1322047,
+      "start": 1321744,
+      "strand": 1
+    },
+    "nuoL": {
+      "end": 1323888,
+      "start": 1322049,
+      "strand": 1
+    },
+    "nuoM": {
+      "end": 1325430,
+      "start": 1323891,
+      "strand": 1
+    },
+    "nuoN": {
+      "end": 1326895,
+      "start": 1325416,
+      "strand": 1
+    },
+    "nupC": {
+      "end": 1230125,
+      "start": 1228868,
+      "strand": -1
+    },
+    "nusA": {
+      "end": 1541473,
+      "start": 1540285,
+      "strand": 1
+    },
+    "nusB": {
+      "end": 467,
+      "start": 50,
+      "strand": -1
+    },
+    "nusG": {
+      "end": 1258365,
+      "start": 1257834,
+      "strand": -1
+    },
+    "obg": {
+      "end": 319284,
+      "start": 318201,
+      "strand": 1
+    },
+    "ompP1": {
+      "end": 856195,
+      "start": 854431,
+      "strand": 1
+    },
+    "ompR": {
+      "end": 167717,
+      "start": 167039,
+      "strand": -1
+    },
+    "oorA": {
+      "end": 585398,
+      "start": 584270,
+      "strand": 1
+    },
+    "oorB": {
+      "end": 586221,
+      "start": 585399,
+      "strand": 1
+    },
+    "oorC": {
+      "end": 586775,
+      "start": 586220,
+      "strand": 1
+    },
+    "oorD": {
+      "end": 584271,
+      "start": 583929,
+      "strand": 1
+    },
+    "oppA": {
+      "end": 1307952,
+      "start": 1306164,
+      "strand": -1
+    },
+    "oppB": {
+      "end": 1306168,
+      "start": 1305121,
+      "strand": -1
+    },
+    "oppC": {
+      "end": 258277,
+      "start": 257260,
+      "strand": -1
+    },
+    "oppD": {
+      "end": 257251,
+      "start": 255700,
+      "strand": -1
+    },
+    "orf1": {
+      "end": 275193,
+      "start": 273963,
+      "strand": 1
+    },
+    "orf12": {
+      "end": 517939,
+      "start": 517339,
+      "strand": -1
+    },
+    "orf15": {
+      "end": 525116,
+      "start": 523547,
+      "strand": -1
+    },
+    "orf16": {
+      "end": 526776,
+      "start": 525168,
+      "strand": -1
+    },
+    "orf17": {
+      "end": 527539,
+      "start": 526780,
+      "strand": -1
+    },
+    "orf18": {
+      "end": 528577,
+      "start": 527920,
+      "strand": 1
+    },
+    "orf6": {
+      "end": 510847,
+      "start": 510499,
+      "strand": 1
+    },
+    "orf7": {
+      "end": 511649,
+      "start": 510989,
+      "strand": 1
+    },
+    "orf8": {
+      "end": 513087,
+      "start": 511641,
+      "strand": 1
+    },
+    "orf9": {
+      "end": 513606,
+      "start": 513096,
+      "strand": 1
+    },
+    "ostA": {
+      "end": 1271902,
+      "start": 1269601,
+      "strand": -1
+    },
+    "paaD": {
+      "end": 1500696,
+      "start": 1500132,
+      "strand": -1
+    },
+    "pabB": {
+      "end": 308082,
+      "start": 306378,
+      "strand": 1
+    },
+    "pabC": {
+      "end": 583745,
+      "start": 582755,
+      "strand": 1
+    },
+    "panB": {
+      "end": 396471,
+      "start": 395658,
+      "strand": -1
+    },
+    "panC": {
+      "end": 4065,
+      "start": 3234,
+      "strand": 1
+    },
+    "panD": {
+      "end": 35369,
+      "start": 35015,
+      "strand": 1
+    },
+    "papS": {
+      "end": 648882,
+      "start": 647673,
+      "strand": 1
+    },
+    "pbp2": {
+      "end": 1625121,
+      "start": 1623354,
+      "strand": -1
+    },
+    "pcm": {
+      "end": 1129468,
+      "start": 1128838,
+      "strand": 1
+    },
+    "pdxA": {
+      "end": 1637404,
+      "start": 1636480,
+      "strand": 1
+    },
+    "pdxJ": {
+      "end": 1636479,
+      "start": 1635690,
+      "strand": 1
+    },
+    "pepA": {
+      "end": 567404,
+      "start": 565913,
+      "strand": -1
+    },
+    "pepF": {
+      "end": 455645,
+      "start": 453908,
+      "strand": -1
+    },
+    "pepQ": {
+      "end": 417088,
+      "start": 416014,
+      "strand": 1
+    },
+    "petC": {
+      "end": 1611838,
+      "start": 1610980,
+      "strand": 1
+    },
+    "pflA": {
+      "end": 1329296,
+      "start": 1326884,
+      "strand": 1
+    },
+    "pfr": {
+      "end": 661717,
+      "start": 661213,
+      "strand": -1
+    },
+    "pgi": {
+      "end": 1213067,
+      "start": 1211429,
+      "strand": 1
+    },
+    "pgk": {
+      "end": 1382856,
+      "start": 1381647,
+      "strand": -1
+    },
+    "pgl": {
+      "end": 1141166,
+      "start": 1140482,
+      "strand": 1
+    },
+    "pgm": {
+      "end": 1005677,
+      "start": 1004201,
+      "strand": 1
+    },
+    "pgpA": {
+      "end": 755193,
+      "start": 754716,
+      "strand": 1
+    },
+    "pgsA": {
+      "end": 435538,
+      "start": 434935,
+      "strand": -1
+    },
+    "pheA": {
+      "end": 305493,
+      "start": 305190,
+      "strand": 1
+    },
+    "pheS": {
+      "end": 1086199,
+      "start": 1085212,
+      "strand": 1
+    },
+    "pheT": {
+      "end": 1088493,
+      "start": 1086198,
+      "strand": 1
+    },
+    "phnA": {
+      "end": 885483,
+      "start": 885153,
+      "strand": 1
+    },
+    "pldA": {
+      "end": 488989,
+      "start": 487921,
+      "strand": 1
+    },
+    "plsC": {
+      "end": 1385363,
+      "start": 1384649,
+      "strand": -1
+    },
+    "plsX": {
+      "end": 202967,
+      "start": 201947,
+      "strand": 1
+    },
+    "pmi": {
+      "end": 42201,
+      "start": 40788,
+      "strand": 1
+    },
+    "pnp": {
+      "end": 1268881,
+      "start": 1266814,
+      "strand": -1
+    },
+    "pnuC": {
+      "end": 1343713,
+      "start": 1343050,
+      "strand": 1
+    },
+    "polA": {
+      "end": 1495169,
+      "start": 1492475,
+      "strand": -1
+    },
+    "porA": {
+      "end": 1150540,
+      "start": 1149316,
+      "strand": 1
+    },
+    "porB": {
+      "end": 1151497,
+      "start": 1150552,
+      "strand": 1
+    },
+    "porD": {
+      "end": 1149307,
+      "start": 1148914,
+      "strand": 1
+    },
+    "porG": {
+      "end": 1148899,
+      "start": 1148338,
+      "strand": 1
+    },
+    "ppa": {
+      "end": 627152,
+      "start": 626630,
+      "strand": 1
+    },
+    "ppi": {
+      "end": 1466434,
+      "start": 1465945,
+      "strand": 1
+    },
+    "ppiD": {
+      "end": 1008982,
+      "start": 1007518,
+      "strand": 1
+    },
+    "ppk": {
+      "end": 442240,
+      "start": 440212,
+      "strand": -1
+    },
+    "ppnK": {
+      "end": 1581468,
+      "start": 1580544,
+      "strand": 1
+    },
+    "ppsA": {
+      "end": 127690,
+      "start": 125251,
+      "strand": -1
+    },
+    "pqqE": {
+      "end": 439122,
+      "start": 437790,
+      "strand": -1
+    },
+    "prc": {
+      "end": 1387899,
+      "start": 1386519,
+      "strand": -1
+    },
+    "prfA": {
+      "end": 79172,
+      "start": 78113,
+      "strand": 1
+    },
+    "prfB": {
+      "end": 172050,
+      "start": 170958,
+      "strand": -1
+    },
+    "priA": {
+      "end": 1106077,
+      "start": 1104217,
+      "strand": -1
+    },
+    "prmA": {
+      "end": 389723,
+      "start": 388733,
+      "strand": -1
+    },
+    "proC": {
+      "end": 1206595,
+      "start": 1205821,
+      "strand": 1
+    },
+    "proP": {
+      "end": 966484,
+      "start": 965125,
+      "strand": -1
+    },
+    "proS": {
+      "end": 246197,
+      "start": 244466,
+      "strand": -1
+    },
+    "proV": {
+      "end": 837215,
+      "start": 836564,
+      "strand": 1
+    },
+    "proWX": {
+      "end": 833344,
+      "start": 832858,
+      "strand": 1
+    },
+    "prsA": {
+      "end": 760023,
+      "start": 759066,
+      "strand": 1
+    },
+    "prtC": {
+      "end": 170155,
+      "start": 168886,
+      "strand": -1
+    },
+    "psd": {
+      "end": 1396416,
+      "start": 1395612,
+      "strand": -1
+    },
+    "pseC": {
+      "end": 1127498,
+      "start": 1126361,
+      "strand": 1
+    },
+    "pseF": {
+      "end": 338848,
+      "start": 337295,
+      "strand": 1
+    },
+    "pseH": {
+      "end": 339387,
+      "start": 338844,
+      "strand": 1
+    },
+    "pseI": {
+      "end": 181872,
+      "start": 180849,
+      "strand": -1
+    },
+    "pspA": {
+      "end": 1460333,
+      "start": 1459454,
+      "strand": -1
+    },
+    "pssA": {
+      "end": 386574,
+      "start": 385860,
+      "strand": -1
+    },
+    "pta": {
+      "end": 921822,
+      "start": 920262,
+      "strand": -1
+    },
+    "pth": {
+      "end": 1522339,
+      "start": 1521778,
+      "strand": 1
+    },
+    "punB": {
+      "end": 1559857,
+      "start": 1559314,
+      "strand": 1
+    },
+    "purA": {
+      "end": 262828,
+      "start": 261592,
+      "strand": 1
+    },
+    "purB": {
+      "end": 1152927,
+      "start": 1151604,
+      "strand": 1
+    },
+    "purD": {
+      "end": 1273667,
+      "start": 1272392,
+      "strand": -1
+    },
+    "purU": {
+      "end": 1459452,
+      "start": 1458570,
+      "strand": -1
+    },
+    "putA": {
+      "end": 58477,
+      "start": 54919,
+      "strand": -1
+    },
+    "putP": {
+      "end": 54893,
+      "start": 53402,
+      "strand": -1
+    },
+    "pyrB": {
+      "end": 372758,
+      "start": 371834,
+      "strand": 1
+    },
+    "pyrC_1": {
+      "end": 273979,
+      "start": 272842,
+      "strand": 1
+    },
+    "pyrC_2": {
+      "end": 576755,
+      "start": 575735,
+      "strand": -1
+    },
+    "pyrD": {
+      "end": 440174,
+      "start": 439118,
+      "strand": -1
+    },
+    "pyrE": {
+      "end": 1311637,
+      "start": 1311031,
+      "strand": 1
+    },
+    "pyrF": {
+      "end": 3235,
+      "start": 2551,
+      "strand": 1
+    },
+    "pyrG": {
+      "end": 350861,
+      "start": 349244,
+      "strand": -1
+    },
+    "pyrH": {
+      "end": 793559,
+      "start": 792836,
+      "strand": -1
+    },
+    "queA": {
+      "end": 393356,
+      "start": 392318,
+      "strand": -1
+    },
+    "rbfA": {
+      "end": 406823,
+      "start": 406487,
+      "strand": 1
+    },
+    "rbn": {
+      "end": 1426767,
+      "start": 1425888,
+      "strand": 1
+    },
+    "recA": {
+      "end": 157445,
+      "start": 156401,
+      "strand": 1
+    },
+    "recG": {
+      "end": 1554137,
+      "start": 1552265,
+      "strand": -1
+    },
+    "recJ": {
+      "end": 349235,
+      "start": 347684,
+      "strand": -1
+    },
+    "recN": {
+      "end": 1583074,
+      "start": 1581505,
+      "strand": 1
+    },
+    "recO": {
+      "end": 980787,
+      "start": 980172,
+      "strand": 1
+    },
+    "recR": {
+      "end": 955069,
+      "start": 954487,
+      "strand": 1
+    },
+    "rep": {
+      "end": 930360,
+      "start": 928329,
+      "strand": 1
+    },
+    "res_1": {
+      "end": 1424632,
+      "start": 1422292,
+      "strand": -1
+    },
+    "res_2": {
+      "end": 1550285,
+      "start": 1547375,
+      "strand": -1
+    },
+    "rfaJ_1": {
+      "end": 162219,
+      "start": 161085,
+      "strand": -1
+    },
+    "rfaJ_2": {
+      "end": 1440348,
+      "start": 1439244,
+      "strand": 1
+    },
+    "rho": {
+      "end": 550050,
+      "start": 548733,
+      "strand": -1
+    },
+    "ribA": {
+      "end": 819640,
+      "start": 819061,
+      "strand": -1
+    },
+    "ribBA": {
+      "end": 821690,
+      "start": 820655,
+      "strand": -1
+    },
+    "ribC": {
+      "end": 1631405,
+      "start": 1630784,
+      "strand": 1
+    },
+    "ribD": {
+      "end": 1530655,
+      "start": 1529620,
+      "strand": -1
+    },
+    "ribE": {
+      "end": 939,
+      "start": 468,
+      "strand": -1
+    },
+    "ribF": {
+      "end": 370580,
+      "start": 369737,
+      "strand": -1
+    },
+    "rlpA": {
+      "end": 1628738,
+      "start": 1627793,
+      "strand": -1
+    },
+    "rluB": {
+      "end": 1480592,
+      "start": 1479803,
+      "strand": -1
+    },
+    "rluC": {
+      "end": 984308,
+      "start": 983579,
+      "strand": -1
+    },
+    "rluD1": {
+      "end": 347685,
+      "start": 346803,
+      "strand": -1
+    },
+    "rluD2": {
+      "end": 763571,
+      "start": 762587,
+      "strand": 1
+    },
+    "rlx1": {
+      "end": 1047811,
+      "start": 1045777,
+      "strand": 1
+    },
+    "rnc": {
+      "end": 673123,
+      "start": 672403,
+      "strand": 1
+    },
+    "rnhA": {
+      "end": 672392,
+      "start": 671960,
+      "strand": 1
+    },
+    "rnhB": {
+      "end": 1361673,
+      "start": 1361043,
+      "strand": -1
+    },
+    "rnpA": {
+      "end": 1469457,
+      "start": 1468971,
+      "strand": 1
+    },
+    "rocE": {
+      "end": 434740,
+      "start": 433312,
+      "strand": -1
+    },
+    "rocF": {
+      "end": 1575104,
+      "start": 1574135,
+      "strand": -1
+    },
+    "rodA_1": {
+      "end": 761219,
+      "start": 760073,
+      "strand": -1
+    },
+    "rpL28": {
+      "end": 480963,
+      "start": 480774,
+      "strand": -1
+    },
+    "rpL29": {
+      "end": 1354398,
+      "start": 1354197,
+      "strand": -1
+    },
+    "rpL33": {
+      "end": 1258976,
+      "start": 1258817,
+      "strand": -1
+    },
+    "rpS14": {
+      "end": 1352763,
+      "start": 1352577,
+      "strand": -1
+    },
+    "rpS16": {
+      "end": 1194199,
+      "start": 1193968,
+      "strand": -1
+    },
+    "rpe": {
+      "end": 1587156,
+      "start": 1586502,
+      "strand": -1
+    },
+    "rpl1": {
+      "end": 1257347,
+      "start": 1256642,
+      "strand": -1
+    },
+    "rpl10": {
+      "end": 1256534,
+      "start": 1256039,
+      "strand": -1
+    },
+    "rpl11": {
+      "end": 1257817,
+      "start": 1257391,
+      "strand": -1
+    },
+    "rpl13": {
+      "end": 85782,
+      "start": 85356,
+      "strand": -1
+    },
+    "rpl14": {
+      "end": 1353921,
+      "start": 1353552,
+      "strand": -1
+    },
+    "rpl15": {
+      "end": 1350779,
+      "start": 1350377,
+      "strand": -1
+    },
+    "rpl16": {
+      "end": 1354810,
+      "start": 1354384,
+      "strand": -1
+    },
+    "rpl17": {
+      "end": 1345444,
+      "start": 1345093,
+      "strand": -1
+    },
+    "rpl18": {
+      "end": 1351611,
+      "start": 1351254,
+      "strand": -1
+    },
+    "rpl19": {
+      "end": 1192332,
+      "start": 1191975,
+      "strand": -1
+    },
+    "rpl2": {
+      "end": 1357022,
+      "start": 1356191,
+      "strand": -1
+    },
+    "rpl20": {
+      "end": 131113,
+      "start": 130762,
+      "strand": 1
+    },
+    "rpl21": {
+      "end": 312597,
+      "start": 312282,
+      "strand": 1
+    },
+    "rpl22": {
+      "end": 1355889,
+      "start": 1355520,
+      "strand": -1
+    },
+    "rpl23": {
+      "end": 1357319,
+      "start": 1357037,
+      "strand": -1
+    },
+    "rpl24": {
+      "end": 1353553,
+      "start": 1353331,
+      "strand": -1
+    },
+    "rpl27": {
+      "end": 312877,
+      "start": 312610,
+      "strand": 1
+    },
+    "rpl3": {
+      "end": 1358580,
+      "start": 1358004,
+      "strand": -1
+    },
+    "rpl31": {
+      "end": 550518,
+      "start": 550314,
+      "strand": 1
+    },
+    "rpl32": {
+      "end": 201870,
+      "start": 201723,
+      "strand": 1
+    },
+    "rpl34": {
+      "end": 1469012,
+      "start": 1468877,
+      "strand": 1
+    },
+    "rpl35": {
+      "end": 130668,
+      "start": 130473,
+      "strand": 1
+    },
+    "rpl36": {
+      "end": 1348023,
+      "start": 1347909,
+      "strand": -1
+    },
+    "rpl4": {
+      "end": 1357970,
+      "start": 1357322,
+      "strand": -1
+    },
+    "rpl5": {
+      "end": 1353318,
+      "start": 1352772,
+      "strand": -1
+    },
+    "rpl6": {
+      "end": 1352161,
+      "start": 1351624,
+      "strand": -1
+    },
+    "rpl7_l12": {
+      "end": 1255997,
+      "start": 1255619,
+      "strand": -1
+    },
+    "rpl9": {
+      "end": 505445,
+      "start": 504995,
+      "strand": 1
+    },
+    "rpoA": {
+      "end": 1346478,
+      "start": 1345443,
+      "strand": -1
+    },
+    "rpoB": {
+      "end": 1255398,
+      "start": 1246725,
+      "strand": -1
+    },
+    "rpoD": {
+      "end": 91173,
+      "start": 89127,
+      "strand": -1
+    },
+    "rpoN": {
+      "end": 731771,
+      "start": 730526,
+      "strand": -1
+    },
+    "rpoZ": {
+      "end": 792795,
+      "start": 792570,
+      "strand": -1
+    },
+    "rps1": {
+      "end": 1092396,
+      "start": 1090737,
+      "strand": 1
+    },
+    "rps10": {
+      "end": 1358931,
+      "start": 1358616,
+      "strand": -1
+    },
+    "rps11": {
+      "end": 1347521,
+      "start": 1347125,
+      "strand": -1
+    },
+    "rps12": {
+      "end": 1246638,
+      "start": 1246230,
+      "strand": -1
+    },
+    "rps13": {
+      "end": 1347906,
+      "start": 1347543,
+      "strand": -1
+    },
+    "rps15": {
+      "end": 414032,
+      "start": 413759,
+      "strand": 1
+    },
+    "rps17": {
+      "end": 1354184,
+      "start": 1353923,
+      "strand": -1
+    },
+    "rps18": {
+      "end": 1299560,
+      "start": 1299302,
+      "strand": -1
+    },
+    "rps19": {
+      "end": 1356180,
+      "start": 1355898,
+      "strand": -1
+    },
+    "rps2": {
+      "end": 1592118,
+      "start": 1591323,
+      "strand": -1
+    },
+    "rps20": {
+      "end": 77995,
+      "start": 77725,
+      "strand": 1
+    },
+    "rps21": {
+      "end": 558656,
+      "start": 558443,
+      "strand": -1
+    },
+    "rps3": {
+      "end": 1355517,
+      "start": 1354812,
+      "strand": -1
+    },
+    "rps4": {
+      "end": 1347116,
+      "start": 1346489,
+      "strand": -1
+    },
+    "rps5": {
+      "end": 1351258,
+      "start": 1350796,
+      "strand": -1
+    },
+    "rps6": {
+      "end": 1300571,
+      "start": 1300142,
+      "strand": -1
+    },
+    "rps7": {
+      "end": 1246215,
+      "start": 1245747,
+      "strand": -1
+    },
+    "rps8": {
+      "end": 1352568,
+      "start": 1352172,
+      "strand": -1
+    },
+    "rps9": {
+      "end": 85360,
+      "start": 84970,
+      "strand": -1
+    },
+    "ruvA": {
+      "end": 894902,
+      "start": 894350,
+      "strand": -1
+    },
+    "ruvB": {
+      "end": 395658,
+      "start": 394647,
+      "strand": -1
+    },
+    "ruvC": {
+      "end": 891557,
+      "start": 891083,
+      "strand": -1
+    },
+    "sabA": {
+      "end": 743381,
+      "start": 741427,
+      "strand": -1
+    },
+    "sabB": {
+      "end": 738760,
+      "start": 736845,
+      "strand": 1
+    },
+    "scoA": {
+      "end": 711897,
+      "start": 711198,
+      "strand": -1
+    },
+    "scoB": {
+      "end": 711202,
+      "start": 710578,
+      "strand": -1
+    },
+    "sdaA": {
+      "end": 136352,
+      "start": 134984,
+      "strand": -1
+    },
+    "sdaC": {
+      "end": 137593,
+      "start": 136351,
+      "strand": -1
+    },
+    "secA": {
+      "end": 804731,
+      "start": 802133,
+      "strand": 1
+    },
+    "secD": {
+      "end": 1598469,
+      "start": 1596888,
+      "strand": 1
+    },
+    "secF": {
+      "end": 1599449,
+      "start": 1598477,
+      "strand": 1
+    },
+    "secG": {
+      "end": 1310471,
+      "start": 1309874,
+      "strand": 1
+    },
+    "secY": {
+      "end": 1350343,
+      "start": 1349080,
+      "strand": -1
+    },
+    "selA": {
+      "end": 1540190,
+      "start": 1539017,
+      "strand": 1
+    },
+    "serA": {
+      "end": 1094527,
+      "start": 1092952,
+      "strand": 1
+    },
+    "serB": {
+      "end": 661199,
+      "start": 660575,
+      "strand": -1
+    },
+    "serC": {
+      "end": 754570,
+      "start": 753460,
+      "strand": -1
+    },
+    "serS": {
+      "end": 1507186,
+      "start": 1505938,
+      "strand": -1
+    },
+    "slt": {
+      "end": 654558,
+      "start": 652875,
+      "strand": 1
+    },
+    "slyD": {
+      "end": 1169482,
+      "start": 1168924,
+      "strand": -1
+    },
+    "smpB": {
+      "end": 1467939,
+      "start": 1467480,
+      "strand": 1
+    },
+    "sms": {
+      "end": 229140,
+      "start": 227793,
+      "strand": 1
+    },
+    "sodB": {
+      "end": 1103399,
+      "start": 1102757,
+      "strand": 1
+    },
+    "soj": {
+      "end": 1181711,
+      "start": 1180916,
+      "strand": -1
+    },
+    "sotB": {
+      "end": 1236469,
+      "start": 1235293,
+      "strand": -1
+    },
+    "spaB": {
+      "end": 597787,
+      "start": 596017,
+      "strand": -1
+    },
+    "speA": {
+      "end": 1067389,
+      "start": 1065541,
+      "strand": -1
+    },
+    "speE": {
+      "end": 849640,
+      "start": 848851,
+      "strand": -1
+    },
+    "spoT": {
+      "end": 792584,
+      "start": 790253,
+      "strand": -1
+    },
+    "ssb": {
+      "end": 1300128,
+      "start": 1299582,
+      "strand": -1
+    },
+    "surE": {
+      "end": 959867,
+      "start": 959063,
+      "strand": 1
+    },
+    "tagD": {
+      "end": 1102536,
+      "start": 1102035,
+      "strand": -1
+    },
+    "tagE_1": {
+      "end": 1604821,
+      "start": 1603894,
+      "strand": 1
+    },
+    "tagE_2": {
+      "end": 1605769,
+      "start": 1604830,
+      "strand": 1
+    },
+    "tal": {
+      "end": 1521178,
+      "start": 1520227,
+      "strand": 1
+    },
+    "tatB": {
+      "end": 394581,
+      "start": 394098,
+      "strand": -1
+    },
+    "tatC": {
+      "end": 394106,
+      "start": 393356,
+      "strand": -1
+    },
+    "tatD": {
+      "end": 1630710,
+      "start": 1629945,
+      "strand": -1
+    },
+    "tdhF": {
+      "end": 1473590,
+      "start": 1472204,
+      "strand": 1
+    },
+    "tenA": {
+      "end": 1341292,
+      "start": 1340638,
+      "strand": -1
+    },
+    "tgt": {
+      "end": 287155,
+      "start": 286039,
+      "strand": -1
+    },
+    "thi": {
+      "end": 860776,
+      "start": 859966,
+      "strand": -1
+    },
+    "thiB": {
+      "end": 859974,
+      "start": 859320,
+      "strand": -1
+    },
+    "thiF": {
+      "end": 830737,
+      "start": 829969,
+      "strand": 1
+    },
+    "thiM": {
+      "end": 861552,
+      "start": 860772,
+      "strand": -1
+    },
+    "thrB": {
+      "end": 403401,
+      "start": 402519,
+      "strand": 1
+    },
+    "thrC": {
+      "end": 100083,
+      "start": 98622,
+      "strand": -1
+    },
+    "thrS": {
+      "end": 129885,
+      "start": 128046,
+      "strand": 1
+    },
+    "tig": {
+      "end": 815454,
+      "start": 814098,
+      "strand": -1
+    },
+    "tktA": {
+      "end": 369691,
+      "start": 367765,
+      "strand": -1
+    },
+    "tlpA": {
+      "end": 102304,
+      "start": 100276,
+      "strand": 1
+    },
+    "tlpB": {
+      "end": 106879,
+      "start": 105184,
+      "strand": -1
+    },
+    "tlpC": {
+      "end": 84821,
+      "start": 82799,
+      "strand": -1
+    },
+    "tly": {
+      "end": 371253,
+      "start": 370545,
+      "strand": -1
+    },
+    "tlyC": {
+      "end": 1516113,
+      "start": 1514787,
+      "strand": -1
+    },
+    "tmk": {
+      "end": 1499656,
+      "start": 1499080,
+      "strand": -1
+    },
+    "tnpA": {
+      "end": 910516,
+      "start": 910321,
+      "strand": 1
+    },
+    "tnpB": {
+      "end": 910294,
+      "start": 908965,
+      "strand": -1
+    },
+    "tolB": {
+      "end": 1172331,
+      "start": 1171077,
+      "strand": -1
+    },
+    "tonB_1": {
+      "end": 577713,
+      "start": 576759,
+      "strand": -1
+    },
+    "tonB_2": {
+      "end": 1377548,
+      "start": 1376705,
+      "strand": 1
+    },
+    "topA": {
+      "end": 122851,
+      "start": 120640,
+      "strand": 1
+    },
+    "topA_2": {
+      "end": 1018193,
+      "start": 1016915,
+      "strand": 1
+    },
+    "topA_3": {
+      "end": 1034906,
+      "start": 1032845,
+      "strand": 1
+    },
+    "tpi": {
+      "end": 197767,
+      "start": 197062,
+      "strand": 1
+    },
+    "trbB": {
+      "end": 1445364,
+      "start": 1444449,
+      "strand": -1
+    },
+    "trmD": {
+      "end": 1193043,
+      "start": 1192353,
+      "strand": -1
+    },
+    "trmU": {
+      "end": 1373796,
+      "start": 1372713,
+      "strand": -1
+    },
+    "trpA": {
+      "end": 1332194,
+      "start": 1331405,
+      "strand": -1
+    },
+    "trpB": {
+      "end": 1333372,
+      "start": 1332190,
+      "strand": -1
+    },
+    "trpC": {
+      "end": 1334732,
+      "start": 1333373,
+      "strand": -1
+    },
+    "trpD_1": {
+      "end": 1335732,
+      "start": 1334724,
+      "strand": -1
+    },
+    "trpD_2": {
+      "end": 1336313,
+      "start": 1335728,
+      "strand": -1
+    },
+    "trpE": {
+      "end": 1337812,
+      "start": 1336309,
+      "strand": -1
+    },
+    "trpS": {
+      "end": 1308933,
+      "start": 1307952,
+      "strand": -1
+    },
+    "trx2": {
+      "end": 1479748,
+      "start": 1479433,
+      "strand": -1
+    },
+    "trxA": {
+      "end": 841668,
+      "start": 841347,
+      "strand": 1
+    },
+    "trxB": {
+      "end": 1210198,
+      "start": 1209223,
+      "strand": 1
+    },
+    "trxB_1": {
+      "end": 842609,
+      "start": 841673,
+      "strand": 1
+    },
+    "tsaA": {
+      "end": 1621947,
+      "start": 1621350,
+      "strand": 1
+    },
+    "tsf": {
+      "end": 1591324,
+      "start": 1590256,
+      "strand": -1
+    },
+    "tufB": {
+      "end": 1260222,
+      "start": 1259022,
+      "strand": -1
+    },
+    "tyrA": {
+      "end": 1418862,
+      "start": 1418034,
+      "strand": 1
+    },
+    "tyrS": {
+      "end": 790234,
+      "start": 789025,
+      "strand": -1
+    },
+    "ubiA": {
+      "end": 1398300,
+      "start": 1397415,
+      "strand": -1
+    },
+    "ubiD": {
+      "end": 1096387,
+      "start": 1094536,
+      "strand": 1
+    },
+    "ubiE": {
+      "end": 1508998,
+      "start": 1508257,
+      "strand": -1
+    },
+    "ung": {
+      "end": 1384653,
+      "start": 1383951,
+      "strand": -1
+    },
+    "uppS": {
+      "end": 1275365,
+      "start": 1274660,
+      "strand": -1
+    },
+    "ureA": {
+      "end": 75460,
+      "start": 74743,
+      "strand": -1
+    },
+    "ureB": {
+      "end": 74740,
+      "start": 73030,
+      "strand": -1
+    },
+    "ureC": {
+      "end": 77636,
+      "start": 76298,
+      "strand": -1
+    },
+    "ureE": {
+      "end": 72218,
+      "start": 71705,
+      "strand": -1
+    },
+    "ureF": {
+      "end": 71682,
+      "start": 70911,
+      "strand": -1
+    },
+    "ureG": {
+      "end": 70883,
+      "start": 70283,
+      "strand": -1
+    },
+    "ureH": {
+      "end": 70284,
+      "start": 69486,
+      "strand": -1
+    },
+    "ureI": {
+      "end": 72807,
+      "start": 72219,
+      "strand": -1
+    },
+    "uvrA": {
+      "end": 722370,
+      "start": 719544,
+      "strand": -1
+    },
+    "uvrB": {
+      "end": 1156060,
+      "start": 1154083,
+      "strand": -1
+    },
+    "uvrC": {
+      "end": 839636,
+      "start": 837851,
+      "strand": 1
+    },
+    "uvrD": {
+      "end": 1503404,
+      "start": 1501358,
+      "strand": -1
+    },
+    "vacA": {
+      "end": 903877,
+      "start": 900010,
+      "strand": 1
+    },
+    "vacB": {
+      "end": 1303646,
+      "start": 1301711,
+      "strand": -1
+    },
+    "valS": {
+      "end": 1198252,
+      "start": 1195633,
+      "strand": -1
+    },
+    "vapD": {
+      "end": 911058,
+      "start": 910911,
+      "strand": -1
+    },
+    "vdlC": {
+      "end": 907734,
+      "start": 906918,
+      "strand": -1
+    },
+    "vdlD": {
+      "end": 908440,
+      "start": 907915,
+      "strand": 1
+    },
+    "virB11_1": {
+      "end": 517335,
+      "start": 516342,
+      "strand": -1
+    },
+    "virB4": {
+      "end": 16768,
+      "start": 14404,
+      "strand": 1
+    },
+    "virB4_2": {
+      "end": 1016469,
+      "start": 1015041,
+      "strand": 1
+    },
+    "virB4_3": {
+      "end": 1016879,
+      "start": 1016456,
+      "strand": 1
+    },
+    "virD4": {
+      "end": 516334,
+      "start": 514087,
+      "strand": -1
+    },
+    "waaC": {
+      "end": 284801,
+      "start": 283790,
+      "strand": 1
+    },
+    "waaE": {
+      "end": 873660,
+      "start": 872268,
+      "strand": -1
+    },
+    "waaF": {
+      "end": 1242767,
+      "start": 1241717,
+      "strand": 1
+    },
+    "waaL": {
+      "end": 415377,
+      "start": 414087,
+      "strand": 1
+    },
+    "wbpB": {
+      "end": 689220,
+      "start": 688272,
+      "strand": -1
+    },
+    "wzk": {
+      "end": 1262662,
+      "start": 1260925,
+      "strand": 1
+    },
+    "xerC": {
+      "end": 686811,
+      "start": 685740,
+      "strand": 1
+    },
+    "xerD": {
+      "end": 1044679,
+      "start": 1043683,
+      "strand": -1
+    },
+    "xseA": {
+      "end": 266241,
+      "start": 264978,
+      "strand": 1
+    },
+    "xthA": {
+      "end": 1555949,
+      "start": 1555196,
+      "strand": -1
+    },
+    "yabJ": {
+      "end": 974246,
+      "start": 973868,
+      "strand": -1
+    },
+    "yaeE": {
+      "end": 1633329,
+      "start": 1632681,
+      "strand": 1
+    },
+    "ycf5": {
+      "end": 1116071,
+      "start": 1113260,
+      "strand": -1
+    },
+    "yckJ": {
+      "end": 969258,
+      "start": 968544,
+      "strand": -1
+    },
+    "yckK": {
+      "end": 970015,
+      "start": 969241,
+      "strand": -1
+    },
+    "ydiE": {
+      "end": 1638776,
+      "start": 1637753,
+      "strand": 1
+    },
+    "yhcG": {
+      "end": 1274667,
+      "start": 1273980,
+      "strand": -1
+    },
+    "yheS": {
+      "end": 870495,
+      "start": 868893,
+      "strand": -1
+    },
+    "yihK": {
+      "end": 467373,
+      "start": 465573,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "CagY": {
+      "color_map": [
+        [
+          "A",
+          "#7CE4FA"
+        ],
+        [
+          "B",
+          "#1763F7"
+        ],
+        [
+          "C",
+          "#FCB503"
+        ]
+      ],
+      "key": "cagY variant",
+      "legendTitle": "cagY variant",
+      "menuItem": "cagY variant",
+      "type": "discrete"
+    },
+    "Cell_Shape": {
+      "color_map": [
+        [
+          "rod",
+          "#7CE4FA"
+        ],
+        [
+          "short_pitch",
+          "#fb5a35"
+        ],
+        [
+          "long_pitch",
+          "#fcb503"
+        ]
+      ],
+      "key": "cell shape categories",
+      "legendTitle": "cell shape categories",
+      "menuItem": "cell shape categories",
+      "type": "discrete"
+    },
+    "Normalized_IL-8": {
+      "key": "IL-8 raw values",
+      "legendTitle": "IL-8 raw values",
+      "menuItem": "IL-8 raw values",
+      "type": "continuous"
+    },
+    "Percent_IL-8": {
+      "color_map": [
+        [
+          ">20%_increase",
+          "#fb5a35"
+        ],
+        [
+          "0-20%_increase",
+          "#FCB503"
+        ],
+        [
+          "1-20%_decrease",
+          "#7CE4FA"
+        ]
+      ],
+      "key": "percentage Increase or decrease in IL-8 secretion",
+      "legendTitle": "percentage increase or decrease in IL-8 induction",
+      "menuItem": "percentage increase or decrease in IL-8 induction",
+      "type": "discrete"
+    },
+    "RFLP": {
+      "color_map": [
+        [
+          "A",
+          "#7CE4FA"
+        ],
+        [
+          "B",
+          "#1763F7"
+        ]
+      ],
+      "key": "cagY RFLP",
+      "legendTitle": "cagY RFLP",
+      "menuItem": "cagY RFLP",
+      "type": "discrete"
+    },
+    "body_location": {
+      "color_map": [
+        [
+          "Antrum",
+          "#fcb503"
+        ],
+        [
+          "Corpus",
+          "#fb5A35"
+        ],
+        [
+          "Duodenum",
+          "#1763F7"
+        ]
+      ],
+      "key": "gastric biopsy location",
+      "legendTitle": "gastric biopsy location",
+      "menuItem": "gastric biopsy location",
+      "type": "discrete"
+    },
+    "clade_membership": {
+      "color_map": [
+        [
+          "1A",
+          "#7CE4FA"
+        ],
+        [
+          "1B",
+          "#1763F7"
+        ],
+        [
+          "2A",
+          "#FCB503"
+        ],
+        [
+          "2B",
+          "#fb5A35"
+        ]
+      ],
+      "key": "sub-group",
+      "legendTitle": "sub-group",
+      "menuItem": "sub-group",
+      "type": "discrete"
+    },
+    "csd_mutations": {
+      "color_map": [
+        [
+          "Csd4_G87fs",
+          "#7CE4FA"
+        ],
+        [
+          "Csd4_S261fs",
+          "#7CE4FA"
+        ],
+        [
+          "Csd4_Y242X",
+          "#7CE4FA"
+        ],
+        [
+          "Csd4_I279fs",
+          "#7CE4FA"
+        ],
+        [
+          "Csd5_V168M",
+          "#FCB503"
+        ],
+        [
+          "Csd6_A114fs",
+          "#1763F7"
+        ],
+        [
+          "Csd6_I177fs",
+          "#1763F7"
+        ],
+        [
+          "Csd6_Y120fs",
+          "#1763F7"
+        ]
+      ],
+      "key": "csd mutations",
+      "legendTitle": "csd mutations",
+      "menuItem": "csd mutations",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "sampling date",
+      "legendTitle": "sampling date",
+      "menuItem": "sampling date",
+      "type": "continuous"
+    },
+    "sidecurvature:axislength": {
+      "key": "side curvature:axis length",
+      "legendTitle": "sidecurvature:axislength",
+      "lengthTitle": "side curvature:axis length",
+      "menuItem": "side curvature:axis length",
+      "type": "continuous"
+    },
+    "wavenumber:axislength": {
+      "key": "wavenumber:axis length",
+      "legendTitle": "wavenumber:axislength",
+      "lengthTitle": "wavenumber:axis length",
+      "menuItem": "wavenumber:axis length",
+      "type": "continuous"
+    }
+  },
+  "filters": [
+    "region",
+    "clade_membership"
+  ],
+  "geo": {},
+  "maintainer": [
+    "Laura Jackson",
+    "research.fhcrc.org/salama/en/lab-members.html"
+  ],
+  "panels": [
+    "tree",
+    "entropy"
+  ],
+  "title": "H.pylori strains from a chronically infected individual",
+  "updated": "30 Mar 2020",
+  "virus_count": 39
+}
