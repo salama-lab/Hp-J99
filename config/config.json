@@ -1,5 +1,5 @@
 {
- "title": "H.pylori strains from a chronically infected individual",
+ "title": "Helicobacter pylori strains from a chronically infected individual",
  "color_options": {
   "gt": {
    "menuItem": "genotype",
@@ -78,7 +78,7 @@
    "region"
  ],
  "filters": [
-  "region",
+  "body_location",
   "clade_membership"
  ],
   "maintainer": [
