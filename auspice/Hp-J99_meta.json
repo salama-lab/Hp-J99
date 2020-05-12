@@ -7677,7 +7677,7 @@
     }
   },
   "filters": [
-    "region",
+    "body_location",
     "clade_membership"
   ],
   "geo": {},
@@ -7689,7 +7689,7 @@
     "tree",
     "entropy"
   ],
-  "title": "H.pylori strains from a chronically infected individual",
-  "updated": "30 Mar 2020",
+  "title": "Helicobacter pylori strains from a chronically infected individual",
+  "updated": "03 Apr 2020",
   "virus_count": 39
 }
