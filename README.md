@@ -1,5 +1,4 @@
-# Diversification during chronic <em>Helicobacter pylori</em> infection within a single individual generates sub-populations with distinct phenotypes
-
+# <em>Helicobacter pylori</em> diversification during chronic infection within a single host generates sub-populations with distinct phenotypes
 <b>Laura K. Jackson<sup>1,2</sup>, Barney Potter<sup>3</sup>, Sean Schneider<sup>2</sup>, Matthew Fitzgibbon<sup>4</sup>, Kris Blair<sup>1,2</sup>, Hajirah Farah<sup>2,5</sup>, Uma Krishna<sup>6</sup>, Trevor Bedford<sup>2,3</sup>, Richard Peek Jr<sup>6</sup>, Nina R. Salama<sup>1,2,5</sup> </b>
 
 Affiliations 
